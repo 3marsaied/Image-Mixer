@@ -25,7 +25,8 @@ class mixer:
         component_selector_2 = componentSelector2
         ratio_1 = ratio1
         ratio_2 = ratio2
-
+        aspect_ratio_1 = 0.0
+        aspect_ratio_2 = 0.0
         # Calculate the aspect ratio of the images
         if self.img1:
             aspect_ratio_1 = self.image1.shape[1] / self.image1.shape[0]
