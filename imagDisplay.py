@@ -20,7 +20,7 @@ class ImageDisplay:
         # Normalize pixel values
         self.img = self.img / np.max(self.img)
         if self.ft_magnitude is None:
-            self.ft_magnitude = np.abs(np.fft.fftshift(np.fft.fft2(self.img)))
+            self.ft_magnitude = np.fft.fftshift(np.abs(np.fft.fft2(self.img)))
         if self.ft_phase is None:
             self.ft_phase = np.fft.fftshift(np.angle(np.fft.fft2(self.img)))
         if self.ft_real is None:

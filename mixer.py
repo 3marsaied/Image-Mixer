@@ -44,19 +44,21 @@ class mixer:
         # Mix the images and display the output
         if image_selector_1 == "image 1" and image_selector_2 == "image 2":
             # Calculate the selected components of the Fourier transforms of the images
-            component1 = self.calculate(component_selector_1, self.image1,ratio1)
-            component2 = self.calculate(component_selector_2, self.image2,ratio2)
+            component1 = self.calculate(component_selector_1, self.image1,ratio_1)
+            component2 = self.calculate(component_selector_2, self.image2,ratio_2)
         elif image_selector_1 == "image 1" and image_selector_2 == "image 1":
             # Calculate the selected components of the Fourier transforms of the images
-            component1 = self.calculate(component_selector_1, self.image1,ratio1)
-            component2 = self.calculate(component_selector_2, self.image1,ratio1)
+            component1 = self.calculate(component_selector_1, self.image1,ratio_1)
+            component2 = self.calculate(component_selector_2, self.image1,ratio_2)
         elif image_selector_2 == "image 2" and image_selector_2 == "image 2":
             # Calculate the selected components of the Fourier transforms of the images
-            component1 = self.calculate(component_selector_1, self.image2,ratio2)
-            component2 = self.calculate(component_selector_2, self.image2,ratio2)
+            component1 = self.calculate(component_selector_1, self.image2,ratio_1)
+            component2 = self.calculate(component_selector_2, self.image2,ratio_2)
 
         # Mix the components based on the selected mix ratio
         mixed_component = (ratio_1 / 100) * component1 + (ratio_2 / 100) * component2
+
+
 
         # Convert the mixed component back to an image and display it
         output_image = np.uint8(np.fft.ifft2(np.fft.ifftshift(mixed_component)).real)
@@ -68,32 +70,17 @@ class mixer:
     def calculate(self, component_name, image, ratio):
         # Calculate the selected component of the Fourier transform of the image
         if component_name == "mag":
-            component = np.fft.fftshift(np.fft.fft2(image))
-            component = np.abs(component)
+            component = np.fft.fftshift(np.abs(np.fft.fft2(image)))
         elif component_name == "phase":
-            component = np.fft.fftshift(np.fft.fft2(image))
-            component = np.angle(component)
+            component = np.fft.fftshift(np.angle(np.fft.fft2(image)))
         elif component_name == "real":
-            component = np.fft.fftshift(np.fft.fft2(image))
-            component = np.real(component)
+            component = np.fft.fftshift(np.real(np.fft.fft2(image)))
         elif component_name == "imag":
-            component = np.fft.fftshift(np.fft.fft2(image))
-            component = np.imag(component)
+            component = np.fft.fftshift(np.imag(np.fft.fft2(image)))
         elif component_name == "unformMag":
-            component = np.ones_like(image)
+            component = np.fft.fftshift(np.ones_like(np.fft.fft2(image)))
         elif component_name == "unformPhase":
-            component = np.zeros_like(image)
+            component = np.fft.fftshift(np.zeros_like(np.fft.fft2(image)))
 
-        # Modify the component based on the ratio
-        if ratio < 0:
-            ratio = 0
-        elif ratio > 100:
-            ratio = 100
-        ratio = ratio / 100
-        if component_name in ["mag", "real"]:
-            component *= ratio
-        elif component_name in ["phase", "imag"]:
-            component *= (1 - ratio)
-        
         return component
 

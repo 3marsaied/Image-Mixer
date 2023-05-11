@@ -1,33 +1,1743 @@
-2023-05-11 07:25:08 INFO Application started.
-2023-05-11 07:25:18 INFO Application started.
-2023-05-11 07:25:18 INFO image 1 uploaded.
-2023-05-11 07:25:18 INFO image 1 displayed.
-2023-05-11 07:25:18 INFO FT Magnitude is selected.
-2023-05-11 07:25:18 INFO image with component FT Magnitude is desplayed.
-2023-05-11 07:25:18 INFO output 1 is selected.
-2023-05-11 07:25:18 INFO slider 1 value is 0
-2023-05-11 07:25:18 INFO image 1 selected to be modified in component 1
-2023-05-11 07:25:18 INFO component 'mag' is selected to be modified.
-2023-05-11 07:25:18 INFO slider 2 value is 0
-2023-05-11 07:25:18 INFO image 1 selected to be modified in component 2
-2023-05-11 07:25:18 INFO component 'mag' is selected to be modified.
-2023-05-11 07:25:18 INFO Mixer excutable function called.
-2023-05-11 07:25:18 INFO output 1 displayed
-2023-05-11 07:25:22 INFO Application started.
-2023-05-11 07:25:22 INFO image 1 uploaded.
-2023-05-11 07:25:22 INFO image 1 displayed.
-2023-05-11 07:25:22 INFO FT Magnitude is selected.
-2023-05-11 07:25:22 INFO image with component FT Magnitude is desplayed.
-2023-05-11 07:25:22 INFO image 2 uploaded.
-2023-05-11 07:25:22 INFO image 2 displayed.
-2023-05-11 07:25:22 INFO FT Magnitude is selected.
-2023-05-11 07:25:22 INFO image with component FT Magnitude is desplayed.
-2023-05-11 07:25:22 INFO output 1 is selected.
-2023-05-11 07:25:22 INFO slider 1 value is 0
-2023-05-11 07:25:22 INFO image 1 selected to be modified in component 1
-2023-05-11 07:25:22 INFO component 'mag' is selected to be modified.
-2023-05-11 07:25:22 INFO slider 2 value is 0
-2023-05-11 07:25:22 INFO image 1 selected to be modified in component 2
-2023-05-11 07:25:22 INFO component 'mag' is selected to be modified.
-2023-05-11 07:25:22 INFO Mixer excutable function called.
-2023-05-11 07:25:22 INFO output 1 displayed
+2023-05-11 11:40:29 INFO Application started.
+2023-05-11 11:40:30 INFO Application started.
+2023-05-11 11:40:34 INFO Application started.
+2023-05-11 11:40:34 INFO image 1 uploaded.
+2023-05-11 11:40:34 INFO image 1 displayed.
+2023-05-11 11:40:34 INFO FT Magnitude is selected.
+2023-05-11 11:40:34 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:40:34 INFO output 1 is selected.
+2023-05-11 11:40:34 INFO slider 1 value is 0
+2023-05-11 11:40:34 INFO image 1 selected to be modified in component 1
+2023-05-11 11:40:34 INFO component 'mag' is selected to be modified.
+2023-05-11 11:40:34 INFO slider 2 value is 0
+2023-05-11 11:40:34 INFO image 1 selected to be modified in component 2
+2023-05-11 11:40:34 INFO component 'mag' is selected to be modified.
+2023-05-11 11:40:34 INFO Mixer excutable function called.
+2023-05-11 11:40:34 INFO output 1 displayed
+2023-05-11 11:40:36 INFO Application started.
+2023-05-11 11:40:36 INFO image 1 uploaded.
+2023-05-11 11:40:36 INFO image 1 displayed.
+2023-05-11 11:40:36 INFO FT Magnitude is selected.
+2023-05-11 11:40:37 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:40:37 INFO image 2 uploaded.
+2023-05-11 11:40:37 INFO image 2 displayed.
+2023-05-11 11:40:37 INFO FT Magnitude is selected.
+2023-05-11 11:40:37 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:40:37 INFO output 1 is selected.
+2023-05-11 11:40:37 INFO slider 1 value is 0
+2023-05-11 11:40:37 INFO image 1 selected to be modified in component 1
+2023-05-11 11:40:37 INFO component 'mag' is selected to be modified.
+2023-05-11 11:40:37 INFO slider 2 value is 0
+2023-05-11 11:40:37 INFO image 1 selected to be modified in component 2
+2023-05-11 11:40:37 INFO component 'mag' is selected to be modified.
+2023-05-11 11:40:37 INFO Mixer excutable function called.
+2023-05-11 11:40:37 INFO output 1 displayed
+2023-05-11 11:41:45 INFO Application started.
+2023-05-11 11:41:45 INFO image 1 uploaded.
+2023-05-11 11:41:45 INFO image 1 displayed.
+2023-05-11 11:41:45 INFO FT Magnitude is selected.
+2023-05-11 11:41:45 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:41:45 INFO image 2 uploaded.
+2023-05-11 11:41:45 INFO image 2 displayed.
+2023-05-11 11:41:45 INFO FT Magnitude is selected.
+2023-05-11 11:41:45 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:41:45 INFO output 1 is selected.
+2023-05-11 11:41:45 INFO slider 1 value is 0
+2023-05-11 11:41:45 INFO image 1 selected to be modified in component 1
+2023-05-11 11:41:45 INFO component 'mag' is selected to be modified.
+2023-05-11 11:41:45 INFO slider 2 value is 0
+2023-05-11 11:41:45 INFO image 1 selected to be modified in component 2
+2023-05-11 11:41:45 INFO component 'mag' is selected to be modified.
+2023-05-11 11:41:45 INFO Mixer excutable function called.
+2023-05-11 11:41:45 INFO output 1 displayed
+2023-05-11 11:41:51 INFO Application started.
+2023-05-11 11:41:51 INFO image 1 uploaded.
+2023-05-11 11:41:51 INFO image 1 displayed.
+2023-05-11 11:41:51 INFO FT Magnitude is selected.
+2023-05-11 11:41:52 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:41:52 INFO image 2 uploaded.
+2023-05-11 11:41:52 INFO image 2 displayed.
+2023-05-11 11:41:52 INFO FT Magnitude is selected.
+2023-05-11 11:41:52 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:41:52 INFO output 1 is selected.
+2023-05-11 11:41:52 INFO slider 1 value is 0
+2023-05-11 11:41:52 INFO image 1 selected to be modified in component 1
+2023-05-11 11:41:52 INFO component 'mag' is selected to be modified.
+2023-05-11 11:41:52 INFO slider 2 value is 0
+2023-05-11 11:41:52 INFO image 1 selected to be modified in component 2
+2023-05-11 11:41:52 INFO component 'mag' is selected to be modified.
+2023-05-11 11:41:52 INFO Mixer excutable function called.
+2023-05-11 11:41:52 INFO output 1 displayed
+2023-05-11 11:41:57 INFO Application started.
+2023-05-11 11:41:57 INFO image 1 uploaded.
+2023-05-11 11:41:57 INFO image 1 displayed.
+2023-05-11 11:41:57 INFO FT Magnitude is selected.
+2023-05-11 11:41:58 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:41:58 INFO image 2 uploaded.
+2023-05-11 11:41:58 INFO image 2 displayed.
+2023-05-11 11:41:58 INFO FT Magnitude is selected.
+2023-05-11 11:41:58 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:41:58 INFO output 1 is selected.
+2023-05-11 11:41:58 INFO slider 1 value is 0
+2023-05-11 11:41:58 INFO image 1 selected to be modified in component 1
+2023-05-11 11:41:58 INFO component 'mag' is selected to be modified.
+2023-05-11 11:41:58 INFO slider 2 value is 0
+2023-05-11 11:41:58 INFO image 1 selected to be modified in component 2
+2023-05-11 11:41:58 INFO component 'mag' is selected to be modified.
+2023-05-11 11:41:58 INFO Mixer excutable function called.
+2023-05-11 11:41:58 INFO output 1 displayed
+2023-05-11 11:42:08 INFO Application started.
+2023-05-11 11:42:08 INFO image 1 uploaded.
+2023-05-11 11:42:08 INFO image 1 displayed.
+2023-05-11 11:42:08 INFO FT Magnitude is selected.
+2023-05-11 11:42:08 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:42:08 INFO image 2 uploaded.
+2023-05-11 11:42:08 INFO image 2 displayed.
+2023-05-11 11:42:08 INFO FT Magnitude is selected.
+2023-05-11 11:42:08 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:42:08 INFO output 1 is selected.
+2023-05-11 11:42:08 INFO slider 1 value is 0
+2023-05-11 11:42:08 INFO image 1 selected to be modified in component 1
+2023-05-11 11:42:08 INFO component 'mag' is selected to be modified.
+2023-05-11 11:42:08 INFO slider 2 value is 0
+2023-05-11 11:42:08 INFO image 1 selected to be modified in component 2
+2023-05-11 11:42:08 INFO component 'mag' is selected to be modified.
+2023-05-11 11:42:08 INFO Mixer excutable function called.
+2023-05-11 11:42:08 INFO output 1 displayed
+2023-05-11 11:42:16 INFO Application started.
+2023-05-11 11:42:16 INFO image 1 uploaded.
+2023-05-11 11:42:16 INFO image 1 displayed.
+2023-05-11 11:42:16 INFO FT Magnitude is selected.
+2023-05-11 11:42:16 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:42:16 INFO image 2 uploaded.
+2023-05-11 11:42:16 INFO image 2 displayed.
+2023-05-11 11:42:16 INFO FT Phase is selected.
+2023-05-11 11:42:16 INFO image with component FT Phase is desplayed.
+2023-05-11 11:42:16 INFO output 1 is selected.
+2023-05-11 11:42:17 INFO slider 1 value is 0
+2023-05-11 11:42:17 INFO image 1 selected to be modified in component 1
+2023-05-11 11:42:17 INFO component 'mag' is selected to be modified.
+2023-05-11 11:42:17 INFO slider 2 value is 0
+2023-05-11 11:42:17 INFO image 1 selected to be modified in component 2
+2023-05-11 11:42:17 INFO component 'mag' is selected to be modified.
+2023-05-11 11:42:17 INFO Mixer excutable function called.
+2023-05-11 11:42:17 INFO output 1 displayed
+2023-05-11 11:42:19 INFO Application started.
+2023-05-11 11:42:19 INFO image 1 uploaded.
+2023-05-11 11:42:19 INFO image 1 displayed.
+2023-05-11 11:42:19 INFO FT Magnitude is selected.
+2023-05-11 11:42:19 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:42:19 INFO image 2 uploaded.
+2023-05-11 11:42:19 INFO image 2 displayed.
+2023-05-11 11:42:19 INFO FT Real component is selected.
+2023-05-11 11:42:19 INFO image with component FT Real component is desplayed.
+2023-05-11 11:42:19 INFO output 1 is selected.
+2023-05-11 11:42:19 INFO slider 1 value is 0
+2023-05-11 11:42:19 INFO image 1 selected to be modified in component 1
+2023-05-11 11:42:19 INFO component 'mag' is selected to be modified.
+2023-05-11 11:42:19 INFO slider 2 value is 0
+2023-05-11 11:42:19 INFO image 1 selected to be modified in component 2
+2023-05-11 11:42:19 INFO component 'mag' is selected to be modified.
+2023-05-11 11:42:19 INFO Mixer excutable function called.
+2023-05-11 11:42:19 INFO output 1 displayed
+2023-05-11 11:42:21 INFO Application started.
+2023-05-11 11:42:21 INFO image 1 uploaded.
+2023-05-11 11:42:21 INFO image 1 displayed.
+2023-05-11 11:42:21 INFO FT Magnitude is selected.
+2023-05-11 11:42:21 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:42:21 INFO image 2 uploaded.
+2023-05-11 11:42:21 INFO image 2 displayed.
+2023-05-11 11:42:21 INFO FT Imaginary component is selected.
+2023-05-11 11:42:22 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:42:22 INFO output 1 is selected.
+2023-05-11 11:42:22 INFO slider 1 value is 0
+2023-05-11 11:42:22 INFO image 1 selected to be modified in component 1
+2023-05-11 11:42:22 INFO component 'mag' is selected to be modified.
+2023-05-11 11:42:22 INFO slider 2 value is 0
+2023-05-11 11:42:22 INFO image 1 selected to be modified in component 2
+2023-05-11 11:42:22 INFO component 'mag' is selected to be modified.
+2023-05-11 11:42:22 INFO Mixer excutable function called.
+2023-05-11 11:42:22 INFO output 1 displayed
+2023-05-11 11:43:15 INFO Application started.
+2023-05-11 11:43:15 INFO image 1 uploaded.
+2023-05-11 11:43:15 INFO image 1 displayed.
+2023-05-11 11:43:15 INFO FT Magnitude is selected.
+2023-05-11 11:43:15 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:43:15 INFO image 2 uploaded.
+2023-05-11 11:43:15 INFO image 2 displayed.
+2023-05-11 11:43:15 INFO FT Imaginary component is selected.
+2023-05-11 11:43:15 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:43:15 INFO output 1 is selected.
+2023-05-11 11:43:15 INFO slider 1 value is 0
+2023-05-11 11:43:15 INFO image 1 selected to be modified in component 1
+2023-05-11 11:43:15 INFO component 'mag' is selected to be modified.
+2023-05-11 11:43:15 INFO slider 2 value is 0
+2023-05-11 11:43:15 INFO image 1 selected to be modified in component 2
+2023-05-11 11:43:15 INFO component 'mag' is selected to be modified.
+2023-05-11 11:43:15 INFO Mixer excutable function called.
+2023-05-11 11:43:15 INFO output 1 displayed
+2023-05-11 11:43:27 INFO Application started.
+2023-05-11 11:43:27 INFO image 1 uploaded.
+2023-05-11 11:43:27 INFO image 1 displayed.
+2023-05-11 11:43:27 INFO FT Magnitude is selected.
+2023-05-11 11:43:28 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:43:28 INFO image 2 uploaded.
+2023-05-11 11:43:28 INFO image 2 displayed.
+2023-05-11 11:43:28 INFO FT Imaginary component is selected.
+2023-05-11 11:43:28 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:43:28 INFO output 1 is selected.
+2023-05-11 11:43:28 INFO slider 1 value is 0
+2023-05-11 11:43:28 INFO image 1 selected to be modified in component 1
+2023-05-11 11:43:28 INFO component 'mag' is selected to be modified.
+2023-05-11 11:43:28 INFO slider 2 value is 0
+2023-05-11 11:43:28 INFO image 1 selected to be modified in component 2
+2023-05-11 11:43:28 INFO component 'mag' is selected to be modified.
+2023-05-11 11:43:28 INFO Mixer excutable function called.
+2023-05-11 11:43:28 INFO output 1 displayed
+2023-05-11 11:43:48 INFO Application started.
+2023-05-11 11:43:48 INFO image 1 uploaded.
+2023-05-11 11:43:48 INFO image 1 displayed.
+2023-05-11 11:43:48 INFO FT Magnitude is selected.
+2023-05-11 11:43:49 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:43:49 INFO image 2 uploaded.
+2023-05-11 11:43:49 INFO image 2 displayed.
+2023-05-11 11:43:49 INFO FT Imaginary component is selected.
+2023-05-11 11:43:49 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:43:49 INFO output 1 is selected.
+2023-05-11 11:43:49 INFO slider 1 value is 0
+2023-05-11 11:43:49 INFO image 1 selected to be modified in component 1
+2023-05-11 11:43:49 INFO component 'mag' is selected to be modified.
+2023-05-11 11:43:49 INFO slider 2 value is 0
+2023-05-11 11:43:49 INFO image 1 selected to be modified in component 2
+2023-05-11 11:43:49 INFO component 'mag' is selected to be modified.
+2023-05-11 11:43:49 INFO Mixer excutable function called.
+2023-05-11 11:43:49 INFO output 1 displayed
+2023-05-11 11:43:59 INFO Application started.
+2023-05-11 11:43:59 INFO image 1 uploaded.
+2023-05-11 11:43:59 INFO image 1 displayed.
+2023-05-11 11:43:59 INFO FT Magnitude is selected.
+2023-05-11 11:43:59 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:43:59 INFO image 2 uploaded.
+2023-05-11 11:43:59 INFO image 2 displayed.
+2023-05-11 11:43:59 INFO FT Imaginary component is selected.
+2023-05-11 11:43:59 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:43:59 INFO output 1 is selected.
+2023-05-11 11:43:59 INFO slider 1 value is 0
+2023-05-11 11:43:59 INFO image 1 selected to be modified in component 1
+2023-05-11 11:43:59 INFO component 'mag' is selected to be modified.
+2023-05-11 11:43:59 INFO slider 2 value is 0
+2023-05-11 11:43:59 INFO image 1 selected to be modified in component 2
+2023-05-11 11:43:59 INFO component 'mag' is selected to be modified.
+2023-05-11 11:43:59 INFO Mixer excutable function called.
+2023-05-11 11:43:59 INFO output 1 displayed
+2023-05-11 11:44:08 INFO Application started.
+2023-05-11 11:44:08 INFO image 1 uploaded.
+2023-05-11 11:44:08 INFO image 1 displayed.
+2023-05-11 11:44:08 INFO FT Magnitude is selected.
+2023-05-11 11:44:08 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:44:08 INFO image 2 uploaded.
+2023-05-11 11:44:08 INFO image 2 displayed.
+2023-05-11 11:44:08 INFO FT Imaginary component is selected.
+2023-05-11 11:44:08 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:44:08 INFO output 1 is selected.
+2023-05-11 11:44:08 INFO slider 1 value is 0
+2023-05-11 11:44:08 INFO image 1 selected to be modified in component 1
+2023-05-11 11:44:08 INFO component 'mag' is selected to be modified.
+2023-05-11 11:44:08 INFO slider 2 value is 0
+2023-05-11 11:44:08 INFO image 1 selected to be modified in component 2
+2023-05-11 11:44:08 INFO component 'mag' is selected to be modified.
+2023-05-11 11:44:08 INFO Mixer excutable function called.
+2023-05-11 11:44:08 INFO output 1 displayed
+2023-05-11 11:44:27 INFO Application started.
+2023-05-11 11:44:27 INFO image 1 uploaded.
+2023-05-11 11:44:27 INFO image 1 displayed.
+2023-05-11 11:44:27 INFO FT Magnitude is selected.
+2023-05-11 11:44:27 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:44:27 INFO image 2 uploaded.
+2023-05-11 11:44:27 INFO image 2 displayed.
+2023-05-11 11:44:27 INFO FT Imaginary component is selected.
+2023-05-11 11:44:27 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:44:27 INFO output 1 is selected.
+2023-05-11 11:44:27 INFO slider 1 value is 0
+2023-05-11 11:44:27 INFO image 1 selected to be modified in component 1
+2023-05-11 11:44:27 INFO component 'mag' is selected to be modified.
+2023-05-11 11:44:27 INFO slider 2 value is 0
+2023-05-11 11:44:27 INFO image 1 selected to be modified in component 2
+2023-05-11 11:44:27 INFO component 'mag' is selected to be modified.
+2023-05-11 11:44:27 INFO Mixer excutable function called.
+2023-05-11 11:44:27 INFO output 1 displayed
+2023-05-11 11:44:32 INFO Application started.
+2023-05-11 11:44:32 INFO image 1 uploaded.
+2023-05-11 11:44:32 INFO image 1 displayed.
+2023-05-11 11:44:32 INFO FT Magnitude is selected.
+2023-05-11 11:44:32 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:44:32 INFO image 2 uploaded.
+2023-05-11 11:44:32 INFO image 2 displayed.
+2023-05-11 11:44:32 INFO FT Imaginary component is selected.
+2023-05-11 11:44:33 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:44:33 INFO output 1 is selected.
+2023-05-11 11:44:33 INFO slider 1 value is 0
+2023-05-11 11:44:33 INFO image 1 selected to be modified in component 1
+2023-05-11 11:44:33 INFO component 'mag' is selected to be modified.
+2023-05-11 11:44:33 INFO slider 2 value is 0
+2023-05-11 11:44:33 INFO image 1 selected to be modified in component 2
+2023-05-11 11:44:33 INFO component 'mag' is selected to be modified.
+2023-05-11 11:44:33 INFO Mixer excutable function called.
+2023-05-11 11:44:33 INFO Application started.
+2023-05-11 11:44:33 INFO image 1 uploaded.
+2023-05-11 11:44:33 INFO image 1 displayed.
+2023-05-11 11:44:33 INFO FT Magnitude is selected.
+2023-05-11 11:44:34 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:44:34 INFO image 2 uploaded.
+2023-05-11 11:44:34 INFO image 2 displayed.
+2023-05-11 11:44:34 INFO FT Imaginary component is selected.
+2023-05-11 11:44:34 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:44:34 INFO output 1 is selected.
+2023-05-11 11:44:34 INFO slider 1 value is 0
+2023-05-11 11:44:34 INFO image 1 selected to be modified in component 1
+2023-05-11 11:44:34 INFO component 'mag' is selected to be modified.
+2023-05-11 11:44:34 INFO slider 2 value is 0
+2023-05-11 11:44:34 INFO image 1 selected to be modified in component 2
+2023-05-11 11:44:34 INFO component 'mag' is selected to be modified.
+2023-05-11 11:44:34 INFO Mixer excutable function called.
+2023-05-11 11:44:34 INFO output 1 displayed
+2023-05-11 11:44:44 INFO Application started.
+2023-05-11 11:44:44 INFO image 1 uploaded.
+2023-05-11 11:44:44 INFO image 1 displayed.
+2023-05-11 11:44:44 INFO FT Magnitude is selected.
+2023-05-11 11:44:44 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:44:44 INFO image 2 uploaded.
+2023-05-11 11:44:44 INFO image 2 displayed.
+2023-05-11 11:44:44 INFO FT Imaginary component is selected.
+2023-05-11 11:44:44 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:44:44 INFO output 2 is selected.
+2023-05-11 11:44:44 INFO slider 1 value is 0
+2023-05-11 11:44:44 INFO image 1 selected to be modified in component 1
+2023-05-11 11:44:44 INFO component 'mag' is selected to be modified.
+2023-05-11 11:44:44 INFO slider 2 value is 0
+2023-05-11 11:44:44 INFO image 1 selected to be modified in component 2
+2023-05-11 11:44:44 INFO component 'mag' is selected to be modified.
+2023-05-11 11:44:45 INFO Mixer excutable function called.
+2023-05-11 11:44:45 INFO output 2 displayed.
+2023-05-11 11:44:56 INFO Application started.
+2023-05-11 11:44:56 INFO image 1 uploaded.
+2023-05-11 11:44:56 INFO image 1 displayed.
+2023-05-11 11:44:56 INFO FT Magnitude is selected.
+2023-05-11 11:44:56 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:44:56 INFO image 2 uploaded.
+2023-05-11 11:44:56 INFO image 2 displayed.
+2023-05-11 11:44:56 INFO FT Imaginary component is selected.
+2023-05-11 11:44:56 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:44:56 INFO output 1 is selected.
+2023-05-11 11:44:56 INFO slider 1 value is 0
+2023-05-11 11:44:56 INFO image 1 selected to be modified in component 1
+2023-05-11 11:44:56 INFO component 'mag' is selected to be modified.
+2023-05-11 11:44:56 INFO slider 2 value is 0
+2023-05-11 11:44:56 INFO image 1 selected to be modified in component 2
+2023-05-11 11:44:56 INFO component 'mag' is selected to be modified.
+2023-05-11 11:44:56 INFO Mixer excutable function called.
+2023-05-11 11:44:56 INFO output 1 displayed
+2023-05-11 11:45:10 INFO Application started.
+2023-05-11 11:45:10 INFO image 1 uploaded.
+2023-05-11 11:45:10 INFO Application started.
+2023-05-11 11:45:10 INFO image 1 uploaded.
+2023-05-11 11:45:10 INFO image 1 displayed.
+2023-05-11 11:45:10 INFO FT Magnitude is selected.
+2023-05-11 11:45:10 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:45:10 INFO image 2 uploaded.
+2023-05-11 11:45:10 INFO image 2 displayed.
+2023-05-11 11:45:10 INFO FT Imaginary component is selected.
+2023-05-11 11:45:11 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:45:11 INFO output 1 is selected.
+2023-05-11 11:45:11 INFO slider 1 value is 0
+2023-05-11 11:45:11 INFO image 1 selected to be modified in component 1
+2023-05-11 11:45:11 INFO component 'mag' is selected to be modified.
+2023-05-11 11:45:11 INFO slider 2 value is 0
+2023-05-11 11:45:11 INFO image 1 selected to be modified in component 2
+2023-05-11 11:45:11 INFO component 'mag' is selected to be modified.
+2023-05-11 11:45:11 INFO Mixer excutable function called.
+2023-05-11 11:45:11 INFO output 1 displayed
+2023-05-11 11:45:11 INFO output 2 displayed.
+2023-05-11 11:45:20 INFO Application started.
+2023-05-11 11:45:20 INFO image 1 uploaded.
+2023-05-11 11:45:20 INFO image 1 displayed.
+2023-05-11 11:45:20 INFO FT Magnitude is selected.
+2023-05-11 11:45:20 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:45:20 INFO image 2 uploaded.
+2023-05-11 11:45:20 INFO image 2 displayed.
+2023-05-11 11:45:20 INFO FT Imaginary component is selected.
+2023-05-11 11:45:20 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:45:20 INFO output 1 is selected.
+2023-05-11 11:45:20 INFO slider 1 value is 0
+2023-05-11 11:45:20 INFO image 1 selected to be modified in component 1
+2023-05-11 11:45:20 INFO component 'mag' is selected to be modified.
+2023-05-11 11:45:20 INFO slider 2 value is 0
+2023-05-11 11:45:20 INFO image 1 selected to be modified in component 2
+2023-05-11 11:45:20 INFO component 'mag' is selected to be modified.
+2023-05-11 11:45:20 INFO Mixer excutable function called.
+2023-05-11 11:45:20 INFO output 1 displayed
+2023-05-11 11:45:20 INFO output 2 displayed.
+2023-05-11 11:45:51 INFO Application started.
+2023-05-11 11:45:51 INFO image 1 uploaded.
+2023-05-11 11:45:51 INFO image 1 displayed.
+2023-05-11 11:45:51 INFO FT Magnitude is selected.
+2023-05-11 11:45:51 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:45:51 INFO image 2 uploaded.
+2023-05-11 11:45:51 INFO image 2 displayed.
+2023-05-11 11:45:51 INFO FT Imaginary component is selected.
+2023-05-11 11:45:51 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:45:51 INFO output 1 is selected.
+2023-05-11 11:45:51 INFO slider 1 value is 0
+2023-05-11 11:45:51 INFO image 1 selected to be modified in component 1
+2023-05-11 11:45:51 INFO component 'mag' is selected to be modified.
+2023-05-11 11:45:51 INFO slider 2 value is 0
+2023-05-11 11:45:51 INFO image 2 selected to be modified in component 2
+2023-05-11 11:45:51 INFO component 'mag' is selected to be modified.
+2023-05-11 11:45:55 INFO Application started.
+2023-05-11 11:45:55 INFO image 1 uploaded.
+2023-05-11 11:45:55 INFO image 1 displayed.
+2023-05-11 11:45:55 INFO FT Magnitude is selected.
+2023-05-11 11:45:55 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:45:55 INFO image 2 uploaded.
+2023-05-11 11:45:55 INFO image 2 displayed.
+2023-05-11 11:45:55 INFO FT Imaginary component is selected.
+2023-05-11 11:45:55 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:45:55 INFO output 1 is selected.
+2023-05-11 11:45:55 INFO slider 1 value is 0
+2023-05-11 11:45:55 INFO image 2 selected to be modified in component 1
+2023-05-11 11:45:55 INFO component 'mag' is selected to be modified.
+2023-05-11 11:45:55 INFO slider 2 value is 0
+2023-05-11 11:45:55 INFO image 2 selected to be modified in component 2
+2023-05-11 11:45:55 INFO component 'mag' is selected to be modified.
+2023-05-11 11:45:55 INFO Mixer excutable function called.
+2023-05-11 11:45:55 INFO output 1 displayed
+2023-05-11 11:45:55 INFO output 2 displayed.
+2023-05-11 11:45:58 INFO Application started.
+2023-05-11 11:45:58 INFO image 1 uploaded.
+2023-05-11 11:45:58 INFO image 1 displayed.
+2023-05-11 11:45:58 INFO FT Magnitude is selected.
+2023-05-11 11:45:58 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:45:58 INFO image 2 uploaded.
+2023-05-11 11:45:58 INFO image 2 displayed.
+2023-05-11 11:45:58 INFO FT Imaginary component is selected.
+2023-05-11 11:45:58 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:45:58 INFO output 1 is selected.
+2023-05-11 11:45:58 INFO slider 1 value is 0
+2023-05-11 11:45:58 INFO image 2 selected to be modified in component 1
+2023-05-11 11:45:58 INFO component 'mag' is selected to be modified.
+2023-05-11 11:45:58 INFO slider 2 value is 0
+2023-05-11 11:45:58 INFO image 2 selected to be modified in component 2
+2023-05-11 11:45:58 INFO component 'real' is selected to be modified.
+2023-05-11 11:45:58 INFO Mixer excutable function called.
+2023-05-11 11:45:58 INFO output 1 displayed
+2023-05-11 11:45:58 INFO output 2 displayed.
+2023-05-11 11:46:00 INFO Application started.
+2023-05-11 11:46:00 INFO image 1 uploaded.
+2023-05-11 11:46:00 INFO image 1 displayed.
+2023-05-11 11:46:00 INFO FT Magnitude is selected.
+2023-05-11 11:46:00 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:46:00 INFO image 2 uploaded.
+2023-05-11 11:46:00 INFO image 2 displayed.
+2023-05-11 11:46:00 INFO FT Imaginary component is selected.
+2023-05-11 11:46:00 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:46:00 INFO output 1 is selected.
+2023-05-11 11:46:00 INFO slider 1 value is 0
+2023-05-11 11:46:00 INFO image 2 selected to be modified in component 1
+2023-05-11 11:46:00 INFO component 'mag' is selected to be modified.
+2023-05-11 11:46:00 INFO slider 2 value is 45
+2023-05-11 11:46:00 INFO image 2 selected to be modified in component 2
+2023-05-11 11:46:00 INFO component 'real' is selected to be modified.
+2023-05-11 11:46:00 INFO Mixer excutable function called.
+2023-05-11 11:46:00 INFO output 1 displayed
+2023-05-11 11:46:00 INFO output 2 displayed.
+2023-05-11 11:46:01 INFO Application started.
+2023-05-11 11:46:01 INFO image 1 uploaded.
+2023-05-11 11:46:01 INFO image 1 displayed.
+2023-05-11 11:46:01 INFO FT Magnitude is selected.
+2023-05-11 11:46:01 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:46:01 INFO image 2 uploaded.
+2023-05-11 11:46:01 INFO image 2 displayed.
+2023-05-11 11:46:01 INFO FT Imaginary component is selected.
+2023-05-11 11:46:01 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:46:01 INFO output 1 is selected.
+2023-05-11 11:46:01 INFO slider 1 value is 0
+2023-05-11 11:46:01 INFO image 2 selected to be modified in component 1
+2023-05-11 11:46:01 INFO component 'mag' is selected to be modified.
+2023-05-11 11:46:01 INFO slider 2 value is 100
+2023-05-11 11:46:01 INFO image 2 selected to be modified in component 2
+2023-05-11 11:46:01 INFO component 'real' is selected to be modified.
+2023-05-11 11:46:01 INFO Mixer excutable function called.
+2023-05-11 11:46:01 INFO output 1 displayed
+2023-05-11 11:46:01 INFO output 2 displayed.
+2023-05-11 11:46:01 INFO Application started.
+2023-05-11 11:46:01 INFO image 1 uploaded.
+2023-05-11 11:46:01 INFO image 1 displayed.
+2023-05-11 11:46:01 INFO FT Magnitude is selected.
+2023-05-11 11:46:02 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:46:02 INFO image 2 uploaded.
+2023-05-11 11:46:02 INFO image 2 displayed.
+2023-05-11 11:46:02 INFO FT Imaginary component is selected.
+2023-05-11 11:46:02 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:46:02 INFO output 1 is selected.
+2023-05-11 11:46:02 INFO slider 1 value is 0
+2023-05-11 11:46:02 INFO image 2 selected to be modified in component 1
+2023-05-11 11:46:02 INFO component 'mag' is selected to be modified.
+2023-05-11 11:46:02 INFO slider 2 value is 100
+2023-05-11 11:46:02 INFO image 2 selected to be modified in component 2
+2023-05-11 11:46:02 INFO component 'real' is selected to be modified.
+2023-05-11 11:46:02 INFO Mixer excutable function called.
+2023-05-11 11:46:02 INFO output 1 displayed
+2023-05-11 11:46:02 INFO output 2 displayed.
+2023-05-11 11:46:03 INFO Application started.
+2023-05-11 11:46:03 INFO image 1 uploaded.
+2023-05-11 11:46:03 INFO image 1 displayed.
+2023-05-11 11:46:03 INFO FT Magnitude is selected.
+2023-05-11 11:46:03 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:46:03 INFO image 2 uploaded.
+2023-05-11 11:46:03 INFO image 2 displayed.
+2023-05-11 11:46:03 INFO FT Imaginary component is selected.
+2023-05-11 11:46:03 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:46:03 INFO output 1 is selected.
+2023-05-11 11:46:03 INFO slider 1 value is 0
+2023-05-11 11:46:03 INFO image 2 selected to be modified in component 1
+2023-05-11 11:46:03 INFO component 'mag' is selected to be modified.
+2023-05-11 11:46:03 INFO slider 2 value is 100
+2023-05-11 11:46:03 INFO image 2 selected to be modified in component 2
+2023-05-11 11:46:03 INFO component 'real' is selected to be modified.
+2023-05-11 11:46:03 INFO Mixer excutable function called.
+2023-05-11 11:46:03 INFO output 1 displayed
+2023-05-11 11:46:03 INFO output 2 displayed.
+2023-05-11 11:46:07 INFO Application started.
+2023-05-11 11:46:07 INFO image 1 uploaded.
+2023-05-11 11:46:07 INFO image 1 displayed.
+2023-05-11 11:46:07 INFO FT Magnitude is selected.
+2023-05-11 11:46:07 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:46:07 INFO image 2 uploaded.
+2023-05-11 11:46:07 INFO image 2 displayed.
+2023-05-11 11:46:07 INFO FT Imaginary component is selected.
+2023-05-11 11:46:07 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:46:07 INFO output 1 is selected.
+2023-05-11 11:46:07 INFO slider 1 value is 50
+2023-05-11 11:46:07 INFO image 2 selected to be modified in component 1
+2023-05-11 11:46:07 INFO component 'mag' is selected to be modified.
+2023-05-11 11:46:07 INFO slider 2 value is 100
+2023-05-11 11:46:07 INFO image 2 selected to be modified in component 2
+2023-05-11 11:46:07 INFO component 'real' is selected to be modified.
+2023-05-11 11:46:07 INFO Mixer excutable function called.
+2023-05-11 11:46:07 INFO output 1 displayed
+2023-05-11 11:46:07 INFO output 2 displayed.
+2023-05-11 11:46:10 INFO Application started.
+2023-05-11 11:46:10 INFO image 1 uploaded.
+2023-05-11 11:46:10 INFO image 1 displayed.
+2023-05-11 11:46:10 INFO FT Magnitude is selected.
+2023-05-11 11:46:10 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:46:10 INFO image 2 uploaded.
+2023-05-11 11:46:10 INFO image 2 displayed.
+2023-05-11 11:46:10 INFO FT Imaginary component is selected.
+2023-05-11 11:46:10 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:46:10 INFO output 1 is selected.
+2023-05-11 11:46:10 INFO slider 1 value is 100
+2023-05-11 11:46:10 INFO image 2 selected to be modified in component 1
+2023-05-11 11:46:10 INFO component 'mag' is selected to be modified.
+2023-05-11 11:46:10 INFO slider 2 value is 100
+2023-05-11 11:46:10 INFO image 2 selected to be modified in component 2
+2023-05-11 11:46:10 INFO component 'real' is selected to be modified.
+2023-05-11 11:46:10 INFO Mixer excutable function called.
+2023-05-11 11:46:10 INFO output 1 displayed
+2023-05-11 11:46:10 INFO output 2 displayed.
+2023-05-11 11:46:16 INFO Application started.
+2023-05-11 11:46:16 INFO image 1 uploaded.
+2023-05-11 11:46:16 INFO image 1 displayed.
+2023-05-11 11:46:16 INFO FT Magnitude is selected.
+2023-05-11 11:46:16 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:46:16 INFO image 2 uploaded.
+2023-05-11 11:46:16 INFO image 2 displayed.
+2023-05-11 11:46:16 INFO FT Imaginary component is selected.
+2023-05-11 11:46:16 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:46:16 INFO output 1 is selected.
+2023-05-11 11:46:16 INFO slider 1 value is 100
+2023-05-11 11:46:16 INFO image 2 selected to be modified in component 1
+2023-05-11 11:46:16 INFO component 'mag' is selected to be modified.
+2023-05-11 11:46:16 INFO slider 2 value is 100
+2023-05-11 11:46:16 INFO image 2 selected to be modified in component 2
+2023-05-11 11:46:16 INFO component 'phase' is selected to be modified.
+2023-05-11 11:46:16 INFO Mixer excutable function called.
+2023-05-11 11:46:16 INFO output 1 displayed
+2023-05-11 11:46:16 INFO output 2 displayed.
+2023-05-11 11:46:19 INFO Application started.
+2023-05-11 11:46:19 INFO image 1 uploaded.
+2023-05-11 11:46:19 INFO image 1 displayed.
+2023-05-11 11:46:19 INFO FT Magnitude is selected.
+2023-05-11 11:46:19 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:46:19 INFO image 2 uploaded.
+2023-05-11 11:46:19 INFO image 2 displayed.
+2023-05-11 11:46:19 INFO FT Imaginary component is selected.
+2023-05-11 11:46:19 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:46:19 INFO output 1 is selected.
+2023-05-11 11:46:19 INFO slider 1 value is 100
+2023-05-11 11:46:19 INFO image 2 selected to be modified in component 1
+2023-05-11 11:46:19 INFO component 'mag' is selected to be modified.
+2023-05-11 11:46:19 INFO slider 2 value is 30
+2023-05-11 11:46:19 INFO image 2 selected to be modified in component 2
+2023-05-11 11:46:19 INFO component 'phase' is selected to be modified.
+2023-05-11 11:46:20 INFO Mixer excutable function called.
+2023-05-11 11:46:20 INFO output 1 displayed
+2023-05-11 11:46:20 INFO output 2 displayed.
+2023-05-11 11:46:22 INFO Application started.
+2023-05-11 11:46:22 INFO image 1 uploaded.
+2023-05-11 11:46:22 INFO image 1 displayed.
+2023-05-11 11:46:22 INFO FT Magnitude is selected.
+2023-05-11 11:46:23 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:46:23 INFO image 2 uploaded.
+2023-05-11 11:46:23 INFO image 2 displayed.
+2023-05-11 11:46:23 INFO FT Imaginary component is selected.
+2023-05-11 11:46:23 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:46:23 INFO output 1 is selected.
+2023-05-11 11:46:23 INFO slider 1 value is 100
+2023-05-11 11:46:23 INFO image 2 selected to be modified in component 1
+2023-05-11 11:46:23 INFO component 'mag' is selected to be modified.
+2023-05-11 11:46:23 INFO slider 2 value is 100
+2023-05-11 11:46:23 INFO image 2 selected to be modified in component 2
+2023-05-11 11:46:23 INFO component 'phase' is selected to be modified.
+2023-05-11 11:46:23 INFO Mixer excutable function called.
+2023-05-11 11:46:23 INFO output 1 displayed
+2023-05-11 11:46:23 INFO output 2 displayed.
+2023-05-11 11:52:32 INFO Application started.
+2023-05-11 11:52:32 INFO image 1 uploaded.
+2023-05-11 11:52:32 INFO image 1 displayed.
+2023-05-11 11:52:32 INFO FT Magnitude is selected.
+2023-05-11 11:52:32 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:52:32 INFO image 2 uploaded.
+2023-05-11 11:52:32 INFO image 2 displayed.
+2023-05-11 11:52:32 INFO FT Imaginary component is selected.
+2023-05-11 11:52:32 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:52:32 INFO output 1 is selected.
+2023-05-11 11:52:32 INFO slider 1 value is 100
+2023-05-11 11:52:32 INFO image 2 selected to be modified in component 1
+2023-05-11 11:52:32 INFO component 'mag' is selected to be modified.
+2023-05-11 11:52:32 INFO slider 2 value is 100
+2023-05-11 11:52:32 INFO image 2 selected to be modified in component 2
+2023-05-11 11:52:32 INFO component 'phase' is selected to be modified.
+2023-05-11 11:52:32 INFO Mixer excutable function called.
+2023-05-11 11:52:32 INFO output 1 displayed
+2023-05-11 11:52:32 INFO output 2 displayed.
+2023-05-11 11:52:39 INFO Application started.
+2023-05-11 11:52:39 INFO image 1 uploaded.
+2023-05-11 11:52:39 INFO image 1 displayed.
+2023-05-11 11:52:39 INFO FT Magnitude is selected.
+2023-05-11 11:52:39 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:52:39 INFO image 2 uploaded.
+2023-05-11 11:52:39 INFO image 2 displayed.
+2023-05-11 11:52:39 INFO FT Imaginary component is selected.
+2023-05-11 11:52:39 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:52:39 INFO output 1 is selected.
+2023-05-11 11:52:39 INFO slider 1 value is 100
+2023-05-11 11:52:39 INFO image 2 selected to be modified in component 1
+2023-05-11 11:52:39 INFO component 'mag' is selected to be modified.
+2023-05-11 11:52:39 INFO slider 2 value is 100
+2023-05-11 11:52:39 INFO image 2 selected to be modified in component 2
+2023-05-11 11:52:39 INFO component 'phase' is selected to be modified.
+2023-05-11 11:52:39 INFO Mixer excutable function called.
+2023-05-11 11:52:42 INFO Application started.
+2023-05-11 11:52:42 INFO image 1 uploaded.
+2023-05-11 11:52:42 INFO image 1 displayed.
+2023-05-11 11:52:42 INFO FT Magnitude is selected.
+2023-05-11 11:52:42 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:52:42 INFO image 2 uploaded.
+2023-05-11 11:52:42 INFO image 2 displayed.
+2023-05-11 11:52:42 INFO FT Imaginary component is selected.
+2023-05-11 11:52:42 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:52:42 INFO output 1 is selected.
+2023-05-11 11:52:42 INFO slider 1 value is 100
+2023-05-11 11:52:42 INFO image 2 selected to be modified in component 1
+2023-05-11 11:52:42 INFO component 'mag' is selected to be modified.
+2023-05-11 11:52:42 INFO slider 2 value is 100
+2023-05-11 11:52:42 INFO image 2 selected to be modified in component 2
+2023-05-11 11:52:42 INFO component 'phase' is selected to be modified.
+2023-05-11 11:52:42 INFO Mixer excutable function called.
+2023-05-11 11:52:42 INFO output 1 displayed
+2023-05-11 11:52:42 INFO output 2 displayed.
+2023-05-11 11:52:51 INFO Application started.
+2023-05-11 11:52:51 INFO image 1 uploaded.
+2023-05-11 11:52:51 INFO image 1 displayed.
+2023-05-11 11:52:51 INFO FT Magnitude is selected.
+2023-05-11 11:52:51 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:52:51 INFO image 2 uploaded.
+2023-05-11 11:52:51 INFO image 2 displayed.
+2023-05-11 11:52:51 INFO FT Imaginary component is selected.
+2023-05-11 11:52:51 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:52:51 INFO output 1 is selected.
+2023-05-11 11:52:51 INFO slider 1 value is 100
+2023-05-11 11:52:51 INFO image 2 selected to be modified in component 1
+2023-05-11 11:52:51 INFO component 'mag' is selected to be modified.
+2023-05-11 11:52:51 INFO slider 2 value is 100
+2023-05-11 11:52:51 INFO image 2 selected to be modified in component 2
+2023-05-11 11:52:51 INFO component 'phase' is selected to be modified.
+2023-05-11 11:52:52 INFO Mixer excutable function called.
+2023-05-11 11:52:52 INFO output 1 displayed
+2023-05-11 11:52:53 INFO Application started.
+2023-05-11 11:52:53 INFO image 1 uploaded.
+2023-05-11 11:52:53 INFO image 1 displayed.
+2023-05-11 11:52:53 INFO FT Magnitude is selected.
+2023-05-11 11:52:53 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:52:53 INFO image 2 uploaded.
+2023-05-11 11:52:53 INFO image 2 displayed.
+2023-05-11 11:52:53 INFO FT Imaginary component is selected.
+2023-05-11 11:52:53 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:52:53 INFO output 1 is selected.
+2023-05-11 11:52:53 INFO slider 1 value is 100
+2023-05-11 11:52:53 INFO image 2 selected to be modified in component 1
+2023-05-11 11:52:53 INFO component 'mag' is selected to be modified.
+2023-05-11 11:52:53 INFO slider 2 value is 100
+2023-05-11 11:52:53 INFO image 2 selected to be modified in component 2
+2023-05-11 11:52:53 INFO component 'phase' is selected to be modified.
+2023-05-11 11:52:53 INFO Mixer excutable function called.
+2023-05-11 11:52:53 INFO output 1 displayed
+2023-05-11 11:52:57 INFO Application started.
+2023-05-11 11:52:57 INFO image 1 uploaded.
+2023-05-11 11:52:57 INFO image 1 displayed.
+2023-05-11 11:52:57 INFO FT Magnitude is selected.
+2023-05-11 11:52:57 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:52:57 INFO image 2 uploaded.
+2023-05-11 11:52:57 INFO image 2 displayed.
+2023-05-11 11:52:57 INFO FT Imaginary component is selected.
+2023-05-11 11:52:57 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:52:57 INFO output 1 is selected.
+2023-05-11 11:52:57 INFO slider 1 value is 100
+2023-05-11 11:52:57 INFO image 2 selected to be modified in component 1
+2023-05-11 11:52:57 INFO component 'mag' is selected to be modified.
+2023-05-11 11:52:57 INFO slider 2 value is 100
+2023-05-11 11:52:57 INFO image 2 selected to be modified in component 2
+2023-05-11 11:52:57 INFO component 'phase' is selected to be modified.
+2023-05-11 11:52:57 INFO Mixer excutable function called.
+2023-05-11 11:52:57 INFO output 1 displayed
+2023-05-11 11:52:58 INFO Application started.
+2023-05-11 11:52:58 INFO image 1 uploaded.
+2023-05-11 11:52:58 INFO image 1 displayed.
+2023-05-11 11:52:58 INFO FT Magnitude is selected.
+2023-05-11 11:52:58 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:52:58 INFO image 2 uploaded.
+2023-05-11 11:52:59 INFO image 2 displayed.
+2023-05-11 11:52:59 INFO FT Imaginary component is selected.
+2023-05-11 11:52:59 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:52:59 INFO output 1 is selected.
+2023-05-11 11:52:59 INFO slider 1 value is 100
+2023-05-11 11:52:59 INFO image 2 selected to be modified in component 1
+2023-05-11 11:52:59 INFO component 'mag' is selected to be modified.
+2023-05-11 11:52:59 INFO slider 2 value is 100
+2023-05-11 11:52:59 INFO image 2 selected to be modified in component 2
+2023-05-11 11:52:59 INFO component 'phase' is selected to be modified.
+2023-05-11 11:52:59 INFO Mixer excutable function called.
+2023-05-11 11:52:59 INFO output 1 displayed
+2023-05-11 11:53:03 INFO Application started.
+2023-05-11 11:53:03 INFO image 1 uploaded.
+2023-05-11 11:53:03 INFO image 1 displayed.
+2023-05-11 11:53:03 INFO FT Magnitude is selected.
+2023-05-11 11:53:03 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:53:03 INFO image 2 uploaded.
+2023-05-11 11:53:03 INFO image 2 displayed.
+2023-05-11 11:53:03 INFO FT Imaginary component is selected.
+2023-05-11 11:53:03 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:53:03 INFO output 1 is selected.
+2023-05-11 11:53:03 INFO slider 1 value is 100
+2023-05-11 11:53:03 INFO image 2 selected to be modified in component 1
+2023-05-11 11:53:03 INFO component 'mag' is selected to be modified.
+2023-05-11 11:53:03 INFO slider 2 value is 100
+2023-05-11 11:53:03 INFO image 2 selected to be modified in component 2
+2023-05-11 11:53:03 INFO component 'phase' is selected to be modified.
+2023-05-11 11:53:03 INFO Mixer excutable function called.
+2023-05-11 11:53:03 INFO output 1 displayed
+2023-05-11 11:53:03 INFO output 2 displayed.
+2023-05-11 11:53:21 INFO Application started.
+2023-05-11 11:53:21 INFO image 1 uploaded.
+2023-05-11 11:53:21 INFO image 1 displayed.
+2023-05-11 11:53:21 INFO FT Magnitude is selected.
+2023-05-11 11:53:22 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:53:22 INFO image 2 uploaded.
+2023-05-11 11:53:22 INFO image 2 displayed.
+2023-05-11 11:53:22 INFO FT Imaginary component is selected.
+2023-05-11 11:53:22 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:53:22 INFO output 1 is selected.
+2023-05-11 11:53:22 INFO slider 1 value is 100
+2023-05-11 11:53:22 INFO image 2 selected to be modified in component 1
+2023-05-11 11:53:22 INFO component 'mag' is selected to be modified.
+2023-05-11 11:53:22 INFO slider 2 value is 100
+2023-05-11 11:53:22 INFO image 2 selected to be modified in component 2
+2023-05-11 11:53:22 INFO component 'phase' is selected to be modified.
+2023-05-11 11:53:22 INFO Mixer excutable function called.
+2023-05-11 11:53:22 INFO output 1 displayed
+2023-05-11 11:53:22 INFO output 2 displayed.
+2023-05-11 11:53:34 INFO Application started.
+2023-05-11 11:53:34 INFO image 1 uploaded.
+2023-05-11 11:53:34 INFO image 1 displayed.
+2023-05-11 11:53:34 INFO FT Magnitude is selected.
+2023-05-11 11:53:34 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:53:34 INFO image 2 uploaded.
+2023-05-11 11:53:34 INFO image 2 displayed.
+2023-05-11 11:53:34 INFO FT Imaginary component is selected.
+2023-05-11 11:53:34 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:53:34 INFO output 1 is selected.
+2023-05-11 11:53:34 INFO slider 1 value is 100
+2023-05-11 11:53:34 INFO image 2 selected to be modified in component 1
+2023-05-11 11:53:34 INFO component 'mag' is selected to be modified.
+2023-05-11 11:53:34 INFO slider 2 value is 100
+2023-05-11 11:53:34 INFO image 2 selected to be modified in component 2
+2023-05-11 11:53:34 INFO component 'phase' is selected to be modified.
+2023-05-11 11:53:34 INFO Mixer excutable function called.
+2023-05-11 11:53:34 INFO output 1 displayed
+2023-05-11 11:53:34 INFO output 2 displayed.
+2023-05-11 11:53:36 INFO Application started.
+2023-05-11 11:53:36 INFO image 1 uploaded.
+2023-05-11 11:53:36 INFO image 1 displayed.
+2023-05-11 11:53:36 INFO FT Magnitude is selected.
+2023-05-11 11:53:36 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:53:36 INFO image 2 uploaded.
+2023-05-11 11:53:36 INFO image 2 displayed.
+2023-05-11 11:53:36 INFO FT Imaginary component is selected.
+2023-05-11 11:53:36 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:53:36 INFO output 1 is selected.
+2023-05-11 11:53:36 INFO slider 1 value is 100
+2023-05-11 11:53:36 INFO image 2 selected to be modified in component 1
+2023-05-11 11:53:36 INFO component 'mag' is selected to be modified.
+2023-05-11 11:53:36 INFO slider 2 value is 100
+2023-05-11 11:53:36 INFO image 2 selected to be modified in component 2
+2023-05-11 11:53:36 INFO component 'phase' is selected to be modified.
+2023-05-11 11:53:37 INFO Mixer excutable function called.
+2023-05-11 11:53:37 INFO output 1 displayed
+2023-05-11 11:53:41 INFO Application started.
+2023-05-11 11:53:41 INFO image 1 uploaded.
+2023-05-11 11:53:41 INFO image 1 displayed.
+2023-05-11 11:53:41 INFO FT Magnitude is selected.
+2023-05-11 11:53:41 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:53:41 INFO image 2 uploaded.
+2023-05-11 11:53:41 INFO image 2 displayed.
+2023-05-11 11:53:41 INFO FT Imaginary component is selected.
+2023-05-11 11:53:41 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:53:41 INFO output 1 is selected.
+2023-05-11 11:53:41 INFO slider 1 value is 100
+2023-05-11 11:53:41 INFO image 2 selected to be modified in component 1
+2023-05-11 11:53:41 INFO component 'mag' is selected to be modified.
+2023-05-11 11:53:41 INFO slider 2 value is 100
+2023-05-11 11:53:41 INFO image 2 selected to be modified in component 2
+2023-05-11 11:53:41 INFO component 'phase' is selected to be modified.
+2023-05-11 11:53:41 INFO Mixer excutable function called.
+2023-05-11 11:53:41 INFO output 1 displayed
+2023-05-11 11:53:46 INFO Application started.
+2023-05-11 11:53:46 INFO image 1 uploaded.
+2023-05-11 11:53:46 INFO image 1 displayed.
+2023-05-11 11:53:46 INFO FT Magnitude is selected.
+2023-05-11 11:53:46 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:53:46 INFO image 2 uploaded.
+2023-05-11 11:53:46 INFO image 2 displayed.
+2023-05-11 11:53:46 INFO FT Imaginary component is selected.
+2023-05-11 11:53:46 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:53:46 INFO output 1 is selected.
+2023-05-11 11:53:46 INFO slider 1 value is 100
+2023-05-11 11:53:46 INFO image 2 selected to be modified in component 1
+2023-05-11 11:53:46 INFO component 'mag' is selected to be modified.
+2023-05-11 11:53:46 INFO slider 2 value is 100
+2023-05-11 11:53:46 INFO image 2 selected to be modified in component 2
+2023-05-11 11:53:46 INFO component 'phase' is selected to be modified.
+2023-05-11 11:53:46 INFO Mixer excutable function called.
+2023-05-11 11:53:46 INFO output 1 displayed
+2023-05-11 11:53:46 INFO output 2 displayed.
+2023-05-11 11:53:51 INFO Application started.
+2023-05-11 11:53:51 INFO image 1 uploaded.
+2023-05-11 11:53:51 INFO image 1 displayed.
+2023-05-11 11:53:51 INFO FT Magnitude is selected.
+2023-05-11 11:53:51 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:53:51 INFO image 2 uploaded.
+2023-05-11 11:53:51 INFO image 2 displayed.
+2023-05-11 11:53:51 INFO FT Imaginary component is selected.
+2023-05-11 11:53:51 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:53:51 INFO output 1 is selected.
+2023-05-11 11:53:51 INFO slider 1 value is 100
+2023-05-11 11:53:51 INFO image 2 selected to be modified in component 1
+2023-05-11 11:53:51 INFO component 'mag' is selected to be modified.
+2023-05-11 11:53:51 INFO slider 2 value is 100
+2023-05-11 11:53:51 INFO image 2 selected to be modified in component 2
+2023-05-11 11:53:51 INFO component 'phase' is selected to be modified.
+2023-05-11 11:53:51 INFO Mixer excutable function called.
+2023-05-11 11:53:51 INFO output 1 displayed
+2023-05-11 11:53:51 INFO output 2 displayed.
+2023-05-11 11:53:55 INFO Application started.
+2023-05-11 11:53:55 INFO image 1 uploaded.
+2023-05-11 11:53:55 INFO image 1 displayed.
+2023-05-11 11:53:55 INFO FT Magnitude is selected.
+2023-05-11 11:53:55 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:53:55 INFO image 2 uploaded.
+2023-05-11 11:53:55 INFO image 2 displayed.
+2023-05-11 11:53:55 INFO FT Imaginary component is selected.
+2023-05-11 11:53:55 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:53:55 INFO output 1 is selected.
+2023-05-11 11:53:55 INFO slider 1 value is 100
+2023-05-11 11:53:55 INFO image 2 selected to be modified in component 1
+2023-05-11 11:53:55 INFO component 'mag' is selected to be modified.
+2023-05-11 11:53:55 INFO slider 2 value is 100
+2023-05-11 11:53:55 INFO image 2 selected to be modified in component 2
+2023-05-11 11:53:55 INFO component 'phase' is selected to be modified.
+2023-05-11 11:53:56 INFO Mixer excutable function called.
+2023-05-11 11:53:56 INFO output 1 displayed
+2023-05-11 11:53:56 INFO output 2 displayed.
+2023-05-11 11:53:57 INFO Application started.
+2023-05-11 11:53:57 INFO image 1 uploaded.
+2023-05-11 11:53:57 INFO image 1 displayed.
+2023-05-11 11:53:57 INFO FT Magnitude is selected.
+2023-05-11 11:53:57 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:53:57 INFO image 2 uploaded.
+2023-05-11 11:53:57 INFO image 2 displayed.
+2023-05-11 11:53:57 INFO FT Imaginary component is selected.
+2023-05-11 11:53:57 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:53:57 INFO output 1 is selected.
+2023-05-11 11:53:57 INFO slider 1 value is 100
+2023-05-11 11:53:57 INFO image 2 selected to be modified in component 1
+2023-05-11 11:53:57 INFO component 'mag' is selected to be modified.
+2023-05-11 11:53:57 INFO slider 2 value is 100
+2023-05-11 11:53:57 INFO image 2 selected to be modified in component 2
+2023-05-11 11:53:57 INFO component 'phase' is selected to be modified.
+2023-05-11 11:53:57 INFO Mixer excutable function called.
+2023-05-11 11:53:57 INFO output 1 displayed
+2023-05-11 11:53:57 INFO output 2 displayed.
+2023-05-11 11:54:01 INFO Application started.
+2023-05-11 11:54:01 INFO image 1 uploaded.
+2023-05-11 11:54:01 INFO image 1 displayed.
+2023-05-11 11:54:01 INFO FT Magnitude is selected.
+2023-05-11 11:54:01 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:54:01 INFO image 2 uploaded.
+2023-05-11 11:54:01 INFO image 2 displayed.
+2023-05-11 11:54:01 INFO FT Imaginary component is selected.
+2023-05-11 11:54:01 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:54:01 INFO output 1 is selected.
+2023-05-11 11:54:01 INFO slider 1 value is 100
+2023-05-11 11:54:01 INFO image 2 selected to be modified in component 1
+2023-05-11 11:54:01 INFO component 'mag' is selected to be modified.
+2023-05-11 11:54:01 INFO slider 2 value is 100
+2023-05-11 11:54:01 INFO image 2 selected to be modified in component 2
+2023-05-11 11:54:01 INFO component 'phase' is selected to be modified.
+2023-05-11 11:54:01 INFO Mixer excutable function called.
+2023-05-11 11:54:01 INFO output 1 displayed
+2023-05-11 11:54:01 INFO output 2 displayed.
+2023-05-11 11:54:02 INFO Application started.
+2023-05-11 11:54:02 INFO image 1 uploaded.
+2023-05-11 11:54:02 INFO image 1 displayed.
+2023-05-11 11:54:02 INFO FT Magnitude is selected.
+2023-05-11 11:54:02 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:54:02 INFO image 2 uploaded.
+2023-05-11 11:54:02 INFO image 2 displayed.
+2023-05-11 11:54:02 INFO FT Imaginary component is selected.
+2023-05-11 11:54:02 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:54:02 INFO output 1 is selected.
+2023-05-11 11:54:02 INFO slider 1 value is 100
+2023-05-11 11:54:02 INFO image 2 selected to be modified in component 1
+2023-05-11 11:54:02 INFO component 'mag' is selected to be modified.
+2023-05-11 11:54:02 INFO slider 2 value is 100
+2023-05-11 11:54:02 INFO image 2 selected to be modified in component 2
+2023-05-11 11:54:02 INFO component 'phase' is selected to be modified.
+2023-05-11 11:54:02 INFO Mixer excutable function called.
+2023-05-11 11:54:02 INFO output 1 displayed
+2023-05-11 11:54:02 INFO output 2 displayed.
+2023-05-11 11:54:04 INFO Application started.
+2023-05-11 11:54:04 INFO image 1 uploaded.
+2023-05-11 11:54:04 INFO image 1 displayed.
+2023-05-11 11:54:04 INFO FT Magnitude is selected.
+2023-05-11 11:54:05 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:54:05 INFO image 2 uploaded.
+2023-05-11 11:54:05 INFO image 2 displayed.
+2023-05-11 11:54:05 INFO FT Imaginary component is selected.
+2023-05-11 11:54:05 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:54:05 INFO output 1 is selected.
+2023-05-11 11:54:05 INFO slider 1 value is 100
+2023-05-11 11:54:05 INFO image 2 selected to be modified in component 1
+2023-05-11 11:54:05 INFO component 'mag' is selected to be modified.
+2023-05-11 11:54:05 INFO slider 2 value is 100
+2023-05-11 11:54:05 INFO image 2 selected to be modified in component 2
+2023-05-11 11:54:05 INFO component 'phase' is selected to be modified.
+2023-05-11 11:54:05 INFO Mixer excutable function called.
+2023-05-11 11:54:05 INFO output 1 displayed
+2023-05-11 11:54:05 INFO output 2 displayed.
+2023-05-11 11:54:06 INFO Application started.
+2023-05-11 11:54:06 INFO image 1 uploaded.
+2023-05-11 11:54:06 INFO image 1 displayed.
+2023-05-11 11:54:06 INFO FT Magnitude is selected.
+2023-05-11 11:54:06 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:54:06 INFO image 2 uploaded.
+2023-05-11 11:54:06 INFO image 2 displayed.
+2023-05-11 11:54:06 INFO FT Imaginary component is selected.
+2023-05-11 11:54:06 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:54:06 INFO output 1 is selected.
+2023-05-11 11:54:06 INFO slider 1 value is 100
+2023-05-11 11:54:06 INFO image 2 selected to be modified in component 1
+2023-05-11 11:54:06 INFO component 'mag' is selected to be modified.
+2023-05-11 11:54:06 INFO slider 2 value is 100
+2023-05-11 11:54:06 INFO image 2 selected to be modified in component 2
+2023-05-11 11:54:06 INFO component 'phase' is selected to be modified.
+2023-05-11 11:54:06 INFO Mixer excutable function called.
+2023-05-11 11:54:06 INFO output 1 displayed
+2023-05-11 11:54:06 INFO output 2 displayed.
+2023-05-11 11:54:12 INFO Application started.
+2023-05-11 11:54:12 INFO image 1 uploaded.
+2023-05-11 11:54:13 INFO image 1 displayed.
+2023-05-11 11:54:13 INFO FT Magnitude is selected.
+2023-05-11 11:54:13 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:54:13 INFO image 2 uploaded.
+2023-05-11 11:54:13 INFO image 2 displayed.
+2023-05-11 11:54:13 INFO FT Imaginary component is selected.
+2023-05-11 11:54:13 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:54:13 INFO output 1 is selected.
+2023-05-11 11:54:13 INFO slider 1 value is 100
+2023-05-11 11:54:13 INFO image 2 selected to be modified in component 1
+2023-05-11 11:54:13 INFO component 'mag' is selected to be modified.
+2023-05-11 11:54:13 INFO slider 2 value is 100
+2023-05-11 11:54:13 INFO image 2 selected to be modified in component 2
+2023-05-11 11:54:13 INFO component 'phase' is selected to be modified.
+2023-05-11 11:54:13 INFO Mixer excutable function called.
+2023-05-11 11:54:13 INFO output 1 displayed
+2023-05-11 11:54:13 INFO output 2 displayed.
+2023-05-11 11:54:16 INFO Application started.
+2023-05-11 11:54:16 INFO image 1 uploaded.
+2023-05-11 11:54:16 INFO image 1 displayed.
+2023-05-11 11:54:16 INFO FT Magnitude is selected.
+2023-05-11 11:54:17 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:54:17 INFO image 2 uploaded.
+2023-05-11 11:54:17 INFO image 2 displayed.
+2023-05-11 11:54:17 INFO FT Imaginary component is selected.
+2023-05-11 11:54:17 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:54:17 INFO output 1 is selected.
+2023-05-11 11:54:17 INFO slider 1 value is 100
+2023-05-11 11:54:17 INFO image 2 selected to be modified in component 1
+2023-05-11 11:54:17 INFO component 'mag' is selected to be modified.
+2023-05-11 11:54:17 INFO slider 2 value is 100
+2023-05-11 11:54:17 INFO image 2 selected to be modified in component 2
+2023-05-11 11:54:17 INFO component 'phase' is selected to be modified.
+2023-05-11 11:54:17 INFO Mixer excutable function called.
+2023-05-11 11:54:17 INFO output 1 displayed
+2023-05-11 11:54:17 INFO output 2 displayed.
+2023-05-11 11:54:30 INFO Application started.
+2023-05-11 11:54:30 INFO image 1 uploaded.
+2023-05-11 11:54:30 INFO image 1 displayed.
+2023-05-11 11:54:30 INFO FT Magnitude is selected.
+2023-05-11 11:54:31 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:54:31 INFO image 2 uploaded.
+2023-05-11 11:54:31 INFO image 2 displayed.
+2023-05-11 11:54:31 INFO FT Imaginary component is selected.
+2023-05-11 11:54:31 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:54:31 INFO output 1 is selected.
+2023-05-11 11:54:31 INFO slider 1 value is 100
+2023-05-11 11:54:31 INFO image 2 selected to be modified in component 1
+2023-05-11 11:54:31 INFO component 'mag' is selected to be modified.
+2023-05-11 11:54:31 INFO slider 2 value is 100
+2023-05-11 11:54:31 INFO image 2 selected to be modified in component 2
+2023-05-11 11:54:31 INFO component 'phase' is selected to be modified.
+2023-05-11 11:54:31 INFO Mixer excutable function called.
+2023-05-11 11:54:31 INFO output 1 displayed
+2023-05-11 11:54:37 INFO Application started.
+2023-05-11 11:54:37 INFO image 1 uploaded.
+2023-05-11 11:54:37 INFO image 1 displayed.
+2023-05-11 11:54:37 INFO FT Magnitude is selected.
+2023-05-11 11:54:37 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:54:37 INFO image 2 uploaded.
+2023-05-11 11:54:38 INFO image 2 displayed.
+2023-05-11 11:54:38 INFO FT Imaginary component is selected.
+2023-05-11 11:54:38 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:54:38 INFO output 1 is selected.
+2023-05-11 11:54:38 INFO slider 1 value is 100
+2023-05-11 11:54:38 INFO image 2 selected to be modified in component 1
+2023-05-11 11:54:38 INFO component 'mag' is selected to be modified.
+2023-05-11 11:54:38 INFO slider 2 value is 100
+2023-05-11 11:54:38 INFO image 2 selected to be modified in component 2
+2023-05-11 11:54:38 INFO component 'phase' is selected to be modified.
+2023-05-11 11:54:38 INFO Mixer excutable function called.
+2023-05-11 11:54:38 INFO output 1 displayed
+2023-05-11 11:54:45 INFO Application started.
+2023-05-11 11:54:45 INFO image 1 uploaded.
+2023-05-11 11:54:45 INFO image 1 displayed.
+2023-05-11 11:54:45 INFO FT Magnitude is selected.
+2023-05-11 11:54:45 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:54:45 INFO image 2 uploaded.
+2023-05-11 11:54:45 INFO image 2 displayed.
+2023-05-11 11:54:45 INFO FT Imaginary component is selected.
+2023-05-11 11:54:45 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:54:45 INFO output 1 is selected.
+2023-05-11 11:54:45 INFO slider 1 value is 100
+2023-05-11 11:54:45 INFO image 2 selected to be modified in component 1
+2023-05-11 11:54:45 INFO component 'mag' is selected to be modified.
+2023-05-11 11:54:45 INFO slider 2 value is 100
+2023-05-11 11:54:45 INFO image 2 selected to be modified in component 2
+2023-05-11 11:54:45 INFO component 'phase' is selected to be modified.
+2023-05-11 11:54:45 INFO Mixer excutable function called.
+2023-05-11 11:54:45 INFO output 1 displayed
+2023-05-11 11:54:58 INFO Application started.
+2023-05-11 11:54:58 INFO image 1 uploaded.
+2023-05-11 11:54:58 INFO image 1 displayed.
+2023-05-11 11:54:58 INFO FT Magnitude is selected.
+2023-05-11 11:54:58 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:54:58 INFO image 2 uploaded.
+2023-05-11 11:54:58 INFO image 2 displayed.
+2023-05-11 11:54:58 INFO FT Imaginary component is selected.
+2023-05-11 11:54:58 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:54:58 INFO output 1 is selected.
+2023-05-11 11:54:58 INFO slider 1 value is 100
+2023-05-11 11:54:58 INFO image 2 selected to be modified in component 1
+2023-05-11 11:54:58 INFO component 'mag' is selected to be modified.
+2023-05-11 11:54:58 INFO slider 2 value is 100
+2023-05-11 11:54:58 INFO image 2 selected to be modified in component 2
+2023-05-11 11:54:58 INFO component 'phase' is selected to be modified.
+2023-05-11 11:54:58 INFO Mixer excutable function called.
+2023-05-11 11:54:58 INFO output 1 displayed
+2023-05-11 11:54:59 INFO Application started.
+2023-05-11 11:54:59 INFO image 1 uploaded.
+2023-05-11 11:54:59 INFO image 1 displayed.
+2023-05-11 11:54:59 INFO FT Magnitude is selected.
+2023-05-11 11:54:59 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:54:59 INFO image 2 uploaded.
+2023-05-11 11:54:59 INFO image 2 displayed.
+2023-05-11 11:54:59 INFO FT Imaginary component is selected.
+2023-05-11 11:54:59 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:54:59 INFO output 1 is selected.
+2023-05-11 11:54:59 INFO slider 1 value is 100
+2023-05-11 11:54:59 INFO image 2 selected to be modified in component 1
+2023-05-11 11:54:59 INFO component 'mag' is selected to be modified.
+2023-05-11 11:54:59 INFO slider 2 value is 100
+2023-05-11 11:54:59 INFO image 2 selected to be modified in component 2
+2023-05-11 11:54:59 INFO component 'phase' is selected to be modified.
+2023-05-11 11:54:59 INFO Mixer excutable function called.
+2023-05-11 11:54:59 INFO output 1 displayed
+2023-05-11 11:55:04 INFO Application started.
+2023-05-11 11:55:04 INFO image 1 uploaded.
+2023-05-11 11:55:04 INFO image 1 displayed.
+2023-05-11 11:55:04 INFO FT Magnitude is selected.
+2023-05-11 11:55:04 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:55:04 INFO image 2 uploaded.
+2023-05-11 11:55:04 INFO image 2 displayed.
+2023-05-11 11:55:04 INFO FT Imaginary component is selected.
+2023-05-11 11:55:05 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:55:05 INFO output 1 is selected.
+2023-05-11 11:55:05 INFO slider 1 value is 100
+2023-05-11 11:55:05 INFO image 2 selected to be modified in component 1
+2023-05-11 11:55:05 INFO component 'mag' is selected to be modified.
+2023-05-11 11:55:05 INFO slider 2 value is 100
+2023-05-11 11:55:05 INFO image 2 selected to be modified in component 2
+2023-05-11 11:55:05 INFO component 'phase' is selected to be modified.
+2023-05-11 11:55:05 INFO Mixer excutable function called.
+2023-05-11 11:55:05 INFO output 1 displayed
+2023-05-11 11:55:06 INFO Application started.
+2023-05-11 11:55:06 INFO image 1 uploaded.
+2023-05-11 11:55:06 INFO image 1 displayed.
+2023-05-11 11:55:06 INFO FT Magnitude is selected.
+2023-05-11 11:55:06 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:55:06 INFO image 2 uploaded.
+2023-05-11 11:55:06 INFO image 2 displayed.
+2023-05-11 11:55:06 INFO FT Imaginary component is selected.
+2023-05-11 11:55:06 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:55:06 INFO output 1 is selected.
+2023-05-11 11:55:06 INFO slider 1 value is 100
+2023-05-11 11:55:06 INFO image 2 selected to be modified in component 1
+2023-05-11 11:55:06 INFO component 'mag' is selected to be modified.
+2023-05-11 11:55:06 INFO slider 2 value is 100
+2023-05-11 11:55:06 INFO image 2 selected to be modified in component 2
+2023-05-11 11:55:06 INFO component 'phase' is selected to be modified.
+2023-05-11 11:55:06 INFO Mixer excutable function called.
+2023-05-11 11:55:06 INFO output 1 displayed
+2023-05-11 11:55:28 INFO Application started.
+2023-05-11 11:55:28 INFO image 1 uploaded.
+2023-05-11 11:55:28 INFO image 1 displayed.
+2023-05-11 11:55:28 INFO FT Magnitude is selected.
+2023-05-11 11:55:28 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:55:28 INFO image 2 uploaded.
+2023-05-11 11:55:28 INFO image 2 displayed.
+2023-05-11 11:55:28 INFO FT Imaginary component is selected.
+2023-05-11 11:55:28 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:55:28 INFO output 1 is selected.
+2023-05-11 11:55:28 INFO slider 1 value is 100
+2023-05-11 11:55:28 INFO image 2 selected to be modified in component 1
+2023-05-11 11:55:28 INFO component 'mag' is selected to be modified.
+2023-05-11 11:55:28 INFO slider 2 value is 100
+2023-05-11 11:55:28 INFO image 2 selected to be modified in component 2
+2023-05-11 11:55:28 INFO component 'phase' is selected to be modified.
+2023-05-11 11:55:28 INFO Mixer excutable function called.
+2023-05-11 11:55:28 INFO output 1 displayed
+2023-05-11 11:55:29 INFO Application started.
+2023-05-11 11:55:29 INFO image 1 uploaded.
+2023-05-11 11:55:29 INFO image 1 displayed.
+2023-05-11 11:55:29 INFO FT Magnitude is selected.
+2023-05-11 11:55:29 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:55:29 INFO image 2 uploaded.
+2023-05-11 11:55:29 INFO image 2 displayed.
+2023-05-11 11:55:29 INFO FT Imaginary component is selected.
+2023-05-11 11:55:29 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:55:29 INFO output 1 is selected.
+2023-05-11 11:55:29 INFO slider 1 value is 100
+2023-05-11 11:55:29 INFO image 2 selected to be modified in component 1
+2023-05-11 11:55:29 INFO component 'mag' is selected to be modified.
+2023-05-11 11:55:29 INFO slider 2 value is 100
+2023-05-11 11:55:29 INFO image 2 selected to be modified in component 2
+2023-05-11 11:55:29 INFO component 'phase' is selected to be modified.
+2023-05-11 11:55:30 INFO Mixer excutable function called.
+2023-05-11 11:55:30 INFO output 1 displayed
+2023-05-11 11:55:44 INFO Application started.
+2023-05-11 11:55:44 INFO image 1 uploaded.
+2023-05-11 11:55:44 INFO image 1 displayed.
+2023-05-11 11:55:44 INFO FT Magnitude is selected.
+2023-05-11 11:55:45 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:55:45 INFO image 2 uploaded.
+2023-05-11 11:55:45 INFO image 2 displayed.
+2023-05-11 11:55:45 INFO FT Imaginary component is selected.
+2023-05-11 11:55:45 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:55:45 INFO output 1 is selected.
+2023-05-11 11:55:45 INFO slider 1 value is 100
+2023-05-11 11:55:45 INFO image 2 selected to be modified in component 1
+2023-05-11 11:55:45 INFO component 'mag' is selected to be modified.
+2023-05-11 11:55:45 INFO slider 2 value is 100
+2023-05-11 11:55:45 INFO image 2 selected to be modified in component 2
+2023-05-11 11:55:45 INFO component 'phase' is selected to be modified.
+2023-05-11 11:55:45 INFO Mixer excutable function called.
+2023-05-11 11:55:45 INFO output 1 displayed
+2023-05-11 11:55:49 INFO Application started.
+2023-05-11 11:55:49 INFO image 1 uploaded.
+2023-05-11 11:55:49 INFO image 1 displayed.
+2023-05-11 11:55:49 INFO FT Magnitude is selected.
+2023-05-11 11:55:49 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:55:49 INFO image 2 uploaded.
+2023-05-11 11:55:49 INFO image 2 displayed.
+2023-05-11 11:55:49 INFO FT Imaginary component is selected.
+2023-05-11 11:55:49 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:55:49 INFO output 1 is selected.
+2023-05-11 11:55:49 INFO slider 1 value is 100
+2023-05-11 11:55:49 INFO image 2 selected to be modified in component 1
+2023-05-11 11:55:49 INFO component 'mag' is selected to be modified.
+2023-05-11 11:55:49 INFO slider 2 value is 100
+2023-05-11 11:55:49 INFO image 2 selected to be modified in component 2
+2023-05-11 11:55:49 INFO component 'phase' is selected to be modified.
+2023-05-11 11:55:49 INFO Mixer excutable function called.
+2023-05-11 11:55:49 INFO output 1 displayed
+2023-05-11 11:55:53 INFO Application started.
+2023-05-11 11:55:53 INFO image 1 uploaded.
+2023-05-11 11:55:53 INFO image 1 displayed.
+2023-05-11 11:55:53 INFO FT Magnitude is selected.
+2023-05-11 11:55:53 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:55:53 INFO image 2 uploaded.
+2023-05-11 11:55:53 INFO image 2 displayed.
+2023-05-11 11:55:53 INFO FT Imaginary component is selected.
+2023-05-11 11:55:53 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:55:53 INFO output 1 is selected.
+2023-05-11 11:55:53 INFO slider 1 value is 100
+2023-05-11 11:55:53 INFO image 2 selected to be modified in component 1
+2023-05-11 11:55:53 INFO component 'mag' is selected to be modified.
+2023-05-11 11:55:53 INFO slider 2 value is 100
+2023-05-11 11:55:53 INFO image 2 selected to be modified in component 2
+2023-05-11 11:55:53 INFO component 'phase' is selected to be modified.
+2023-05-11 11:55:53 INFO Mixer excutable function called.
+2023-05-11 11:55:53 INFO output 1 displayed
+2023-05-11 11:55:57 INFO Application started.
+2023-05-11 11:55:57 INFO image 1 uploaded.
+2023-05-11 11:55:57 INFO image 1 displayed.
+2023-05-11 11:55:57 INFO FT Magnitude is selected.
+2023-05-11 11:55:57 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:55:57 INFO image 2 uploaded.
+2023-05-11 11:55:57 INFO image 2 displayed.
+2023-05-11 11:55:57 INFO FT Imaginary component is selected.
+2023-05-11 11:55:57 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:55:57 INFO output 1 is selected.
+2023-05-11 11:55:57 INFO slider 1 value is 100
+2023-05-11 11:55:57 INFO image 2 selected to be modified in component 1
+2023-05-11 11:55:57 INFO component 'mag' is selected to be modified.
+2023-05-11 11:55:57 INFO slider 2 value is 100
+2023-05-11 11:55:57 INFO image 2 selected to be modified in component 2
+2023-05-11 11:55:57 INFO component 'phase' is selected to be modified.
+2023-05-11 11:55:57 INFO Mixer excutable function called.
+2023-05-11 11:55:57 INFO output 1 displayed
+2023-05-11 11:56:12 INFO Application started.
+2023-05-11 11:56:12 INFO image 1 uploaded.
+2023-05-11 11:56:12 INFO image 1 displayed.
+2023-05-11 11:56:12 INFO FT Magnitude is selected.
+2023-05-11 11:56:12 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:56:12 INFO image 2 uploaded.
+2023-05-11 11:56:12 INFO image 2 displayed.
+2023-05-11 11:56:12 INFO FT Imaginary component is selected.
+2023-05-11 11:56:12 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:56:12 INFO output 1 is selected.
+2023-05-11 11:56:12 INFO slider 1 value is 100
+2023-05-11 11:56:12 INFO image 2 selected to be modified in component 1
+2023-05-11 11:56:12 INFO component 'mag' is selected to be modified.
+2023-05-11 11:56:12 INFO slider 2 value is 100
+2023-05-11 11:56:12 INFO image 2 selected to be modified in component 2
+2023-05-11 11:56:12 INFO component 'phase' is selected to be modified.
+2023-05-11 11:56:12 INFO Mixer excutable function called.
+2023-05-11 11:56:12 INFO output 1 displayed
+2023-05-11 11:56:13 INFO Application started.
+2023-05-11 11:56:13 INFO image 1 uploaded.
+2023-05-11 11:56:13 INFO image 1 displayed.
+2023-05-11 11:56:13 INFO FT Magnitude is selected.
+2023-05-11 11:56:13 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:56:13 INFO image 2 uploaded.
+2023-05-11 11:56:13 INFO image 2 displayed.
+2023-05-11 11:56:13 INFO FT Imaginary component is selected.
+2023-05-11 11:56:13 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:56:13 INFO output 1 is selected.
+2023-05-11 11:56:13 INFO slider 1 value is 100
+2023-05-11 11:56:13 INFO image 2 selected to be modified in component 1
+2023-05-11 11:56:13 INFO component 'mag' is selected to be modified.
+2023-05-11 11:56:13 INFO slider 2 value is 100
+2023-05-11 11:56:13 INFO image 2 selected to be modified in component 2
+2023-05-11 11:56:13 INFO component 'phase' is selected to be modified.
+2023-05-11 11:56:13 INFO Mixer excutable function called.
+2023-05-11 11:56:13 INFO output 1 displayed
+2023-05-11 11:56:18 INFO Application started.
+2023-05-11 11:56:18 INFO image 1 uploaded.
+2023-05-11 11:56:18 INFO image 1 displayed.
+2023-05-11 11:56:18 INFO FT Magnitude is selected.
+2023-05-11 11:56:18 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:56:18 INFO image 2 uploaded.
+2023-05-11 11:56:18 INFO image 2 displayed.
+2023-05-11 11:56:18 INFO FT Imaginary component is selected.
+2023-05-11 11:56:18 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:56:18 INFO output 1 is selected.
+2023-05-11 11:56:18 INFO slider 1 value is 100
+2023-05-11 11:56:18 INFO image 2 selected to be modified in component 1
+2023-05-11 11:56:18 INFO component 'mag' is selected to be modified.
+2023-05-11 11:56:18 INFO slider 2 value is 100
+2023-05-11 11:56:18 INFO image 2 selected to be modified in component 2
+2023-05-11 11:56:18 INFO component 'phase' is selected to be modified.
+2023-05-11 11:56:19 INFO Mixer excutable function called.
+2023-05-11 11:56:19 INFO output 1 displayed
+2023-05-11 11:56:22 INFO Application started.
+2023-05-11 11:56:22 INFO image 1 uploaded.
+2023-05-11 11:56:22 INFO image 1 displayed.
+2023-05-11 11:56:22 INFO FT Magnitude is selected.
+2023-05-11 11:56:22 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:56:22 INFO image 2 uploaded.
+2023-05-11 11:56:22 INFO image 2 displayed.
+2023-05-11 11:56:22 INFO FT Imaginary component is selected.
+2023-05-11 11:56:22 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:56:22 INFO output 1 is selected.
+2023-05-11 11:56:22 INFO slider 1 value is 100
+2023-05-11 11:56:22 INFO image 2 selected to be modified in component 1
+2023-05-11 11:56:22 INFO component 'mag' is selected to be modified.
+2023-05-11 11:56:22 INFO slider 2 value is 100
+2023-05-11 11:56:22 INFO image 2 selected to be modified in component 2
+2023-05-11 11:56:22 INFO component 'phase' is selected to be modified.
+2023-05-11 11:56:22 INFO Mixer excutable function called.
+2023-05-11 11:56:22 INFO output 1 displayed
+2023-05-11 11:56:27 INFO Application started.
+2023-05-11 11:56:27 INFO image 1 uploaded.
+2023-05-11 11:56:27 INFO image 1 displayed.
+2023-05-11 11:56:27 INFO FT Magnitude is selected.
+2023-05-11 11:56:27 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:56:27 INFO image 2 uploaded.
+2023-05-11 11:56:27 INFO image 2 displayed.
+2023-05-11 11:56:27 INFO FT Imaginary component is selected.
+2023-05-11 11:56:27 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:56:27 INFO output 2 is selected.
+2023-05-11 11:56:27 INFO slider 1 value is 100
+2023-05-11 11:56:27 INFO image 2 selected to be modified in component 1
+2023-05-11 11:56:27 INFO component 'mag' is selected to be modified.
+2023-05-11 11:56:27 INFO slider 2 value is 100
+2023-05-11 11:56:27 INFO image 2 selected to be modified in component 2
+2023-05-11 11:56:27 INFO component 'phase' is selected to be modified.
+2023-05-11 11:56:27 INFO Mixer excutable function called.
+2023-05-11 11:56:39 INFO Application started.
+2023-05-11 11:56:39 INFO image 1 uploaded.
+2023-05-11 11:56:39 INFO image 1 displayed.
+2023-05-11 11:56:40 INFO FT Magnitude is selected.
+2023-05-11 11:56:40 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:56:40 INFO image 2 uploaded.
+2023-05-11 11:56:40 INFO image 2 displayed.
+2023-05-11 11:56:40 INFO FT Imaginary component is selected.
+2023-05-11 11:56:40 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:56:40 INFO output 2 is selected.
+2023-05-11 11:56:40 INFO slider 1 value is 100
+2023-05-11 11:56:40 INFO image 2 selected to be modified in component 1
+2023-05-11 11:56:40 INFO component 'mag' is selected to be modified.
+2023-05-11 11:56:40 INFO slider 2 value is 100
+2023-05-11 11:56:40 INFO image 2 selected to be modified in component 2
+2023-05-11 11:56:40 INFO component 'phase' is selected to be modified.
+2023-05-11 11:56:40 INFO Mixer excutable function called.
+2023-05-11 11:56:42 INFO Application started.
+2023-05-11 11:56:42 INFO image 1 uploaded.
+2023-05-11 11:56:42 INFO image 1 displayed.
+2023-05-11 11:56:42 INFO FT Magnitude is selected.
+2023-05-11 11:56:42 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:56:42 INFO image 2 uploaded.
+2023-05-11 11:56:42 INFO image 2 displayed.
+2023-05-11 11:56:42 INFO FT Imaginary component is selected.
+2023-05-11 11:56:42 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:56:42 INFO output 2 is selected.
+2023-05-11 11:56:42 INFO slider 1 value is 100
+2023-05-11 11:56:42 INFO image 2 selected to be modified in component 1
+2023-05-11 11:56:42 INFO component 'mag' is selected to be modified.
+2023-05-11 11:56:42 INFO slider 2 value is 100
+2023-05-11 11:56:42 INFO image 2 selected to be modified in component 2
+2023-05-11 11:56:42 INFO component 'phase' is selected to be modified.
+2023-05-11 11:56:42 INFO Mixer excutable function called.
+2023-05-11 11:56:44 INFO Application started.
+2023-05-11 11:56:44 INFO image 1 uploaded.
+2023-05-11 11:56:44 INFO image 1 displayed.
+2023-05-11 11:56:44 INFO FT Magnitude is selected.
+2023-05-11 11:56:44 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:56:44 INFO image 2 uploaded.
+2023-05-11 11:56:44 INFO image 2 displayed.
+2023-05-11 11:56:44 INFO FT Imaginary component is selected.
+2023-05-11 11:56:44 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:56:44 INFO output 2 is selected.
+2023-05-11 11:56:44 INFO slider 1 value is 100
+2023-05-11 11:56:44 INFO image 2 selected to be modified in component 1
+2023-05-11 11:56:44 INFO component 'mag' is selected to be modified.
+2023-05-11 11:56:44 INFO slider 2 value is 100
+2023-05-11 11:56:44 INFO image 2 selected to be modified in component 2
+2023-05-11 11:56:44 INFO component 'phase' is selected to be modified.
+2023-05-11 11:56:45 INFO Mixer excutable function called.
+2023-05-11 11:56:49 INFO Application started.
+2023-05-11 11:56:49 INFO image 1 uploaded.
+2023-05-11 11:56:49 INFO image 1 displayed.
+2023-05-11 11:56:49 INFO FT Magnitude is selected.
+2023-05-11 11:56:49 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:56:49 INFO image 2 uploaded.
+2023-05-11 11:56:49 INFO image 2 displayed.
+2023-05-11 11:56:49 INFO FT Imaginary component is selected.
+2023-05-11 11:56:49 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:56:49 INFO output 2 is selected.
+2023-05-11 11:56:49 INFO slider 1 value is 100
+2023-05-11 11:56:49 INFO image 2 selected to be modified in component 1
+2023-05-11 11:56:49 INFO component 'mag' is selected to be modified.
+2023-05-11 11:56:49 INFO slider 2 value is 100
+2023-05-11 11:56:49 INFO image 2 selected to be modified in component 2
+2023-05-11 11:56:49 INFO component 'phase' is selected to be modified.
+2023-05-11 11:56:49 INFO Mixer excutable function called.
+2023-05-11 11:56:51 INFO Application started.
+2023-05-11 11:56:51 INFO image 1 uploaded.
+2023-05-11 11:56:51 INFO image 1 displayed.
+2023-05-11 11:56:51 INFO FT Magnitude is selected.
+2023-05-11 11:56:51 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:56:51 INFO image 2 uploaded.
+2023-05-11 11:56:51 INFO image 2 displayed.
+2023-05-11 11:56:51 INFO FT Imaginary component is selected.
+2023-05-11 11:56:51 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:56:51 INFO output 2 is selected.
+2023-05-11 11:56:51 INFO slider 1 value is 100
+2023-05-11 11:56:51 INFO image 2 selected to be modified in component 1
+2023-05-11 11:56:51 INFO component 'mag' is selected to be modified.
+2023-05-11 11:56:51 INFO slider 2 value is 100
+2023-05-11 11:56:51 INFO image 2 selected to be modified in component 2
+2023-05-11 11:56:51 INFO component 'phase' is selected to be modified.
+2023-05-11 11:56:51 INFO Mixer excutable function called.
+2023-05-11 11:56:59 INFO Application started.
+2023-05-11 11:56:59 INFO image 1 uploaded.
+2023-05-11 11:56:59 INFO image 1 displayed.
+2023-05-11 11:56:59 INFO FT Magnitude is selected.
+2023-05-11 11:56:59 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:56:59 INFO image 2 uploaded.
+2023-05-11 11:56:59 INFO image 2 displayed.
+2023-05-11 11:56:59 INFO FT Imaginary component is selected.
+2023-05-11 11:56:59 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:56:59 INFO output 2 is selected.
+2023-05-11 11:56:59 INFO slider 1 value is 100
+2023-05-11 11:56:59 INFO image 2 selected to be modified in component 1
+2023-05-11 11:56:59 INFO component 'mag' is selected to be modified.
+2023-05-11 11:56:59 INFO slider 2 value is 100
+2023-05-11 11:56:59 INFO image 2 selected to be modified in component 2
+2023-05-11 11:56:59 INFO component 'phase' is selected to be modified.
+2023-05-11 11:56:59 INFO Mixer excutable function called.
+2023-05-11 11:57:06 INFO Application started.
+2023-05-11 11:57:06 INFO image 1 uploaded.
+2023-05-11 11:57:06 INFO image 1 displayed.
+2023-05-11 11:57:06 INFO FT Magnitude is selected.
+2023-05-11 11:57:06 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:57:06 INFO image 2 uploaded.
+2023-05-11 11:57:06 INFO image 2 displayed.
+2023-05-11 11:57:06 INFO FT Imaginary component is selected.
+2023-05-11 11:57:06 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:57:06 INFO output 2 is selected.
+2023-05-11 11:57:06 INFO slider 1 value is 100
+2023-05-11 11:57:06 INFO image 2 selected to be modified in component 1
+2023-05-11 11:57:06 INFO component 'mag' is selected to be modified.
+2023-05-11 11:57:06 INFO slider 2 value is 100
+2023-05-11 11:57:06 INFO image 2 selected to be modified in component 2
+2023-05-11 11:57:06 INFO component 'phase' is selected to be modified.
+2023-05-11 11:57:06 INFO Mixer excutable function called.
+2023-05-11 11:57:06 INFO output 2 displayed.
+2023-05-11 11:57:11 INFO Application started.
+2023-05-11 11:57:11 INFO image 1 uploaded.
+2023-05-11 11:57:11 INFO image 1 displayed.
+2023-05-11 11:57:11 INFO FT Magnitude is selected.
+2023-05-11 11:57:11 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:57:11 INFO image 2 uploaded.
+2023-05-11 11:57:11 INFO image 2 displayed.
+2023-05-11 11:57:11 INFO FT Imaginary component is selected.
+2023-05-11 11:57:11 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:57:11 INFO output 1 is selected.
+2023-05-11 11:57:11 INFO slider 1 value is 100
+2023-05-11 11:57:11 INFO image 2 selected to be modified in component 1
+2023-05-11 11:57:11 INFO component 'mag' is selected to be modified.
+2023-05-11 11:57:11 INFO slider 2 value is 100
+2023-05-11 11:57:11 INFO image 2 selected to be modified in component 2
+2023-05-11 11:57:11 INFO component 'phase' is selected to be modified.
+2023-05-11 11:57:11 INFO Mixer excutable function called.
+2023-05-11 11:57:11 INFO output 1 displayed
+2023-05-11 11:57:14 INFO Application started.
+2023-05-11 11:57:14 INFO image 1 uploaded.
+2023-05-11 11:57:14 INFO image 1 displayed.
+2023-05-11 11:57:14 INFO FT Magnitude is selected.
+2023-05-11 11:57:15 INFO image with component FT Magnitude is desplayed.
+2023-05-11 11:57:15 INFO image 2 uploaded.
+2023-05-11 11:57:15 INFO image 2 displayed.
+2023-05-11 11:57:15 INFO FT Imaginary component is selected.
+2023-05-11 11:57:15 INFO image with component FT Imaginary component is desplayed.
+2023-05-11 11:57:15 INFO output 2 is selected.
+2023-05-11 11:57:15 INFO slider 1 value is 100
+2023-05-11 11:57:15 INFO image 2 selected to be modified in component 1
+2023-05-11 11:57:15 INFO component 'mag' is selected to be modified.
+2023-05-11 11:57:15 INFO slider 2 value is 100
+2023-05-11 11:57:15 INFO image 2 selected to be modified in component 2
+2023-05-11 11:57:15 INFO component 'phase' is selected to be modified.
+2023-05-11 11:57:15 INFO Mixer excutable function called.
+2023-05-11 11:57:15 INFO output 2 displayed.
+2023-05-12 12:01:24 INFO Application started.
+2023-05-12 12:01:24 INFO image 1 uploaded.
+2023-05-12 12:01:24 INFO image 1 displayed.
+2023-05-12 12:01:24 INFO FT Magnitude is selected.
+2023-05-12 12:01:24 INFO image with component FT Magnitude is desplayed.
+2023-05-12 12:01:24 INFO image 2 uploaded.
+2023-05-12 12:01:24 INFO image 2 displayed.
+2023-05-12 12:01:24 INFO FT Imaginary component is selected.
+2023-05-12 12:01:24 INFO image with component FT Imaginary component is desplayed.
+2023-05-12 12:01:24 INFO output 2 is selected.
+2023-05-12 12:01:24 INFO slider 1 value is 100
+2023-05-12 12:01:24 INFO image 2 selected to be modified in component 1
+2023-05-12 12:01:24 INFO component 'mag' is selected to be modified.
+2023-05-12 12:01:24 INFO slider 2 value is 100
+2023-05-12 12:01:24 INFO image 2 selected to be modified in component 2
+2023-05-12 12:01:24 INFO component 'phase' is selected to be modified.
+2023-05-12 12:01:24 INFO Mixer excutable function called.
+2023-05-12 12:01:27 INFO Application started.
+2023-05-12 12:01:27 INFO image 1 uploaded.
+2023-05-12 12:01:27 INFO image 1 displayed.
+2023-05-12 12:01:27 INFO FT Magnitude is selected.
+2023-05-12 12:01:27 INFO image with component FT Magnitude is desplayed.
+2023-05-12 12:01:27 INFO image 2 uploaded.
+2023-05-12 12:01:27 INFO image 2 displayed.
+2023-05-12 12:01:27 INFO FT Imaginary component is selected.
+2023-05-12 12:01:28 INFO image with component FT Imaginary component is desplayed.
+2023-05-12 12:01:28 INFO output 2 is selected.
+2023-05-12 12:01:28 INFO slider 1 value is 100
+2023-05-12 12:01:28 INFO image 2 selected to be modified in component 1
+2023-05-12 12:01:28 INFO component 'mag' is selected to be modified.
+2023-05-12 12:01:28 INFO slider 2 value is 100
+2023-05-12 12:01:28 INFO image 2 selected to be modified in component 2
+2023-05-12 12:01:28 INFO component 'phase' is selected to be modified.
+2023-05-12 12:01:28 INFO Mixer excutable function called.
+2023-05-12 12:01:28 INFO output 2 displayed.
+2023-05-12 12:06:39 INFO Application started.
+2023-05-12 12:06:39 INFO image 1 uploaded.
+2023-05-12 12:06:39 INFO image 1 displayed.
+2023-05-12 12:06:39 INFO FT Magnitude is selected.
+2023-05-12 12:06:40 INFO image with component FT Magnitude is desplayed.
+2023-05-12 12:06:40 INFO image 2 uploaded.
+2023-05-12 12:06:40 INFO image 2 displayed.
+2023-05-12 12:06:40 INFO FT Imaginary component is selected.
+2023-05-12 12:06:40 INFO image with component FT Imaginary component is desplayed.
+2023-05-12 12:06:40 INFO output 2 is selected.
+2023-05-12 12:06:40 INFO slider 1 value is 100
+2023-05-12 12:06:40 INFO image 2 selected to be modified in component 1
+2023-05-12 12:06:40 INFO component 'mag' is selected to be modified.
+2023-05-12 12:06:40 INFO slider 2 value is 50
+2023-05-12 12:06:40 INFO image 2 selected to be modified in component 2
+2023-05-12 12:06:40 INFO component 'phase' is selected to be modified.
+2023-05-12 12:06:40 INFO Mixer excutable function called.
+2023-05-12 12:06:40 INFO output 2 displayed.
+2023-05-12 12:06:41 INFO Application started.
+2023-05-12 12:06:41 INFO image 1 uploaded.
+2023-05-12 12:06:41 INFO image 1 displayed.
+2023-05-12 12:06:41 INFO FT Magnitude is selected.
+2023-05-12 12:06:41 INFO image with component FT Magnitude is desplayed.
+2023-05-12 12:06:41 INFO image 2 uploaded.
+2023-05-12 12:06:41 INFO image 2 displayed.
+2023-05-12 12:06:41 INFO FT Imaginary component is selected.
+2023-05-12 12:06:41 INFO image with component FT Imaginary component is desplayed.
+2023-05-12 12:06:41 INFO output 2 is selected.
+2023-05-12 12:06:41 INFO slider 1 value is 100
+2023-05-12 12:06:41 INFO image 2 selected to be modified in component 1
+2023-05-12 12:06:41 INFO component 'mag' is selected to be modified.
+2023-05-12 12:06:41 INFO slider 2 value is 0
+2023-05-12 12:06:41 INFO image 2 selected to be modified in component 2
+2023-05-12 12:06:41 INFO component 'phase' is selected to be modified.
+2023-05-12 12:06:41 INFO Mixer excutable function called.
+2023-05-12 12:06:41 INFO output 2 displayed.
+2023-05-12 12:06:44 INFO Application started.
+2023-05-12 12:06:44 INFO image 1 uploaded.
+2023-05-12 12:06:44 INFO image 1 displayed.
+2023-05-12 12:06:44 INFO FT Magnitude is selected.
+2023-05-12 12:06:44 INFO image with component FT Magnitude is desplayed.
+2023-05-12 12:06:44 INFO image 2 uploaded.
+2023-05-12 12:06:44 INFO image 2 displayed.
+2023-05-12 12:06:44 INFO FT Imaginary component is selected.
+2023-05-12 12:06:44 INFO image with component FT Imaginary component is desplayed.
+2023-05-12 12:06:44 INFO output 2 is selected.
+2023-05-12 12:06:44 INFO slider 1 value is 100
+2023-05-12 12:06:44 INFO image 2 selected to be modified in component 1
+2023-05-12 12:06:44 INFO component 'mag' is selected to be modified.
+2023-05-12 12:06:44 INFO slider 2 value is 20
+2023-05-12 12:06:44 INFO image 2 selected to be modified in component 2
+2023-05-12 12:06:44 INFO component 'phase' is selected to be modified.
+2023-05-12 12:06:44 INFO Mixer excutable function called.
+2023-05-12 12:06:44 INFO output 2 displayed.
+2023-05-12 12:06:47 INFO Application started.
+2023-05-12 12:06:47 INFO image 1 uploaded.
+2023-05-12 12:06:47 INFO image 1 displayed.
+2023-05-12 12:06:47 INFO FT Magnitude is selected.
+2023-05-12 12:06:47 INFO image with component FT Magnitude is desplayed.
+2023-05-12 12:06:47 INFO image 2 uploaded.
+2023-05-12 12:06:47 INFO image 2 displayed.
+2023-05-12 12:06:47 INFO FT Imaginary component is selected.
+2023-05-12 12:06:47 INFO image with component FT Imaginary component is desplayed.
+2023-05-12 12:06:47 INFO output 2 is selected.
+2023-05-12 12:06:47 INFO slider 1 value is 100
+2023-05-12 12:06:47 INFO image 2 selected to be modified in component 1
+2023-05-12 12:06:47 INFO component 'mag' is selected to be modified.
+2023-05-12 12:06:47 INFO slider 2 value is 20
+2023-05-12 12:06:47 INFO image 2 selected to be modified in component 2
+2023-05-12 12:06:47 INFO component 'imag' is selected to be modified.
+2023-05-12 12:06:47 INFO Mixer excutable function called.
+2023-05-12 12:06:47 INFO output 2 displayed.
+2023-05-12 12:06:51 INFO Application started.
+2023-05-12 12:06:51 INFO image 1 uploaded.
+2023-05-12 12:06:51 INFO image 1 displayed.
+2023-05-12 12:06:51 INFO FT Magnitude is selected.
+2023-05-12 12:06:51 INFO image with component FT Magnitude is desplayed.
+2023-05-12 12:06:51 INFO image 2 uploaded.
+2023-05-12 12:06:51 INFO image 2 displayed.
+2023-05-12 12:06:51 INFO FT Imaginary component is selected.
+2023-05-12 12:06:51 INFO image with component FT Imaginary component is desplayed.
+2023-05-12 12:06:51 INFO output 2 is selected.
+2023-05-12 12:06:51 INFO slider 1 value is 100
+2023-05-12 12:06:51 INFO image 2 selected to be modified in component 1
+2023-05-12 12:06:51 INFO component 'mag' is selected to be modified.
+2023-05-12 12:06:51 INFO slider 2 value is 20
+2023-05-12 12:06:51 INFO image 2 selected to be modified in component 2
+2023-05-12 12:06:51 INFO component 'unformMag' is selected to be modified.
+2023-05-12 12:06:51 INFO Mixer excutable function called.
+2023-05-12 12:06:51 INFO output 2 displayed.
+2023-05-12 12:06:54 INFO Application started.
+2023-05-12 12:06:54 INFO image 1 uploaded.
+2023-05-12 12:06:54 INFO image 1 displayed.
+2023-05-12 12:06:54 INFO FT Magnitude is selected.
+2023-05-12 12:06:54 INFO image with component FT Magnitude is desplayed.
+2023-05-12 12:06:54 INFO image 2 uploaded.
+2023-05-12 12:06:54 INFO image 2 displayed.
+2023-05-12 12:06:54 INFO FT Imaginary component is selected.
+2023-05-12 12:06:54 INFO image with component FT Imaginary component is desplayed.
+2023-05-12 12:06:54 INFO output 2 is selected.
+2023-05-12 12:06:54 INFO slider 1 value is 100
+2023-05-12 12:06:54 INFO image 2 selected to be modified in component 1
+2023-05-12 12:06:54 INFO component 'mag' is selected to be modified.
+2023-05-12 12:06:54 INFO slider 2 value is 20
+2023-05-12 12:06:54 INFO image 2 selected to be modified in component 2
+2023-05-12 12:06:54 INFO component 'unformPhase' is selected to be modified.
+2023-05-12 12:06:55 INFO Mixer excutable function called.
+2023-05-12 12:06:55 INFO output 2 displayed.
+2023-05-12 12:06:57 INFO Application started.
+2023-05-12 12:06:57 INFO image 1 uploaded.
+2023-05-12 12:06:57 INFO image 1 displayed.
+2023-05-12 12:06:57 INFO FT Magnitude is selected.
+2023-05-12 12:06:57 INFO image with component FT Magnitude is desplayed.
+2023-05-12 12:06:57 INFO image 2 uploaded.
+2023-05-12 12:06:57 INFO image 2 displayed.
+2023-05-12 12:06:57 INFO FT Imaginary component is selected.
+2023-05-12 12:06:58 INFO image with component FT Imaginary component is desplayed.
+2023-05-12 12:06:58 INFO output 2 is selected.
+2023-05-12 12:06:58 INFO slider 1 value is 100
+2023-05-12 12:06:58 INFO image 2 selected to be modified in component 1
+2023-05-12 12:06:58 INFO component 'real' is selected to be modified.
+2023-05-12 12:06:58 INFO slider 2 value is 20
+2023-05-12 12:06:58 INFO image 2 selected to be modified in component 2
+2023-05-12 12:06:58 INFO component 'unformPhase' is selected to be modified.
+2023-05-12 12:06:58 INFO Mixer excutable function called.
+2023-05-12 12:06:58 INFO output 2 displayed.
+2023-05-12 12:07:01 INFO Application started.
+2023-05-12 12:07:01 INFO image 1 uploaded.
+2023-05-12 12:07:01 INFO image 1 displayed.
+2023-05-12 12:07:01 INFO FT Magnitude is selected.
+2023-05-12 12:07:02 INFO image with component FT Magnitude is desplayed.
+2023-05-12 12:07:02 INFO image 2 uploaded.
+2023-05-12 12:07:02 INFO image 2 displayed.
+2023-05-12 12:07:02 INFO FT Imaginary component is selected.
+2023-05-12 12:07:02 INFO image with component FT Imaginary component is desplayed.
+2023-05-12 12:07:02 INFO output 2 is selected.
+2023-05-12 12:07:02 INFO slider 1 value is 100
+2023-05-12 12:07:02 INFO image 2 selected to be modified in component 1
+2023-05-12 12:07:02 INFO component 'real' is selected to be modified.
+2023-05-12 12:07:02 INFO slider 2 value is 100
+2023-05-12 12:07:02 INFO image 2 selected to be modified in component 2
+2023-05-12 12:07:02 INFO component 'unformPhase' is selected to be modified.
+2023-05-12 12:07:02 INFO Mixer excutable function called.
+2023-05-12 12:07:02 INFO output 2 displayed.
+2023-05-12 12:07:04 INFO Application started.
+2023-05-12 12:07:04 INFO image 1 uploaded.
+2023-05-12 12:07:04 INFO image 1 displayed.
+2023-05-12 12:07:04 INFO FT Magnitude is selected.
+2023-05-12 12:07:04 INFO image with component FT Magnitude is desplayed.
+2023-05-12 12:07:04 INFO image 2 uploaded.
+2023-05-12 12:07:04 INFO image 2 displayed.
+2023-05-12 12:07:04 INFO FT Imaginary component is selected.
+2023-05-12 12:07:05 INFO image with component FT Imaginary component is desplayed.
+2023-05-12 12:07:05 INFO output 2 is selected.
+2023-05-12 12:07:05 INFO slider 1 value is 100
+2023-05-12 12:07:05 INFO image 2 selected to be modified in component 1
+2023-05-12 12:07:05 INFO component 'real' is selected to be modified.
+2023-05-12 12:07:05 INFO slider 2 value is 100
+2023-05-12 12:07:05 INFO image 2 selected to be modified in component 2
+2023-05-12 12:07:05 INFO component 'phase' is selected to be modified.
+2023-05-12 12:07:05 INFO Mixer excutable function called.
+2023-05-12 12:07:05 INFO output 2 displayed.
+2023-05-12 12:07:07 INFO Application started.
+2023-05-12 12:07:07 INFO image 1 uploaded.
+2023-05-12 12:07:07 INFO image 1 displayed.
+2023-05-12 12:07:07 INFO FT Magnitude is selected.
+2023-05-12 12:07:07 INFO image with component FT Magnitude is desplayed.
+2023-05-12 12:07:07 INFO image 2 uploaded.
+2023-05-12 12:07:07 INFO image 2 displayed.
+2023-05-12 12:07:07 INFO FT Imaginary component is selected.
+2023-05-12 12:07:07 INFO image with component FT Imaginary component is desplayed.
+2023-05-12 12:07:07 INFO output 2 is selected.
+2023-05-12 12:07:07 INFO slider 1 value is 100
+2023-05-12 12:07:07 INFO image 2 selected to be modified in component 1
+2023-05-12 12:07:07 INFO component 'real' is selected to be modified.
+2023-05-12 12:07:07 INFO slider 2 value is 44
+2023-05-12 12:07:07 INFO image 2 selected to be modified in component 2
+2023-05-12 12:07:07 INFO component 'phase' is selected to be modified.
+2023-05-12 12:07:08 INFO Application started.
+2023-05-12 12:07:08 INFO image 1 uploaded.
+2023-05-12 12:07:08 INFO image 1 displayed.
+2023-05-12 12:07:08 INFO FT Magnitude is selected.
+2023-05-12 12:07:08 INFO Mixer excutable function called.
+2023-05-12 12:07:08 INFO image with component FT Magnitude is desplayed.
+2023-05-12 12:07:08 INFO image 2 uploaded.
+2023-05-12 12:07:08 INFO image 2 displayed.
+2023-05-12 12:07:08 INFO FT Imaginary component is selected.
+2023-05-12 12:07:08 INFO image with component FT Imaginary component is desplayed.
+2023-05-12 12:07:08 INFO output 2 is selected.
+2023-05-12 12:07:08 INFO slider 1 value is 100
+2023-05-12 12:07:08 INFO image 2 selected to be modified in component 1
+2023-05-12 12:07:08 INFO component 'real' is selected to be modified.
+2023-05-12 12:07:08 INFO slider 2 value is 37
+2023-05-12 12:07:08 INFO image 2 selected to be modified in component 2
+2023-05-12 12:07:08 INFO component 'phase' is selected to be modified.
+2023-05-12 12:07:09 INFO Mixer excutable function called.
+2023-05-12 12:07:09 INFO output 2 displayed.
+2023-05-12 12:07:15 INFO Application started.
+2023-05-12 12:07:15 INFO image 1 uploaded.
+2023-05-12 12:07:15 INFO image 1 displayed.
+2023-05-12 12:07:15 INFO FT Magnitude is selected.
+2023-05-12 12:07:16 INFO image with component FT Magnitude is desplayed.
+2023-05-12 12:07:16 INFO image 2 uploaded.
+2023-05-12 12:07:16 INFO image 2 displayed.
+2023-05-12 12:07:16 INFO FT Imaginary component is selected.
+2023-05-12 12:07:16 INFO image with component FT Imaginary component is desplayed.
+2023-05-12 12:07:16 INFO output 2 is selected.
+2023-05-12 12:07:16 INFO slider 1 value is 100
+2023-05-12 12:07:16 INFO image 2 selected to be modified in component 1
+2023-05-12 12:07:16 INFO component 'real' is selected to be modified.
+2023-05-12 12:07:16 INFO slider 2 value is 57
+2023-05-12 12:07:16 INFO image 2 selected to be modified in component 2
+2023-05-12 12:07:16 INFO component 'phase' is selected to be modified.
+2023-05-12 12:07:16 INFO Mixer excutable function called.
+2023-05-12 12:07:16 INFO output 2 displayed.

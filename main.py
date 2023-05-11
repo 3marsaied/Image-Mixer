@@ -2,6 +2,7 @@ import streamlit as st
 import logging
 from mixer import *
 from imagDisplay import *
+from stSpace import *
 
 
 st.set_page_config(
@@ -65,16 +66,13 @@ def main():
         img2Display = ImageDisplay(image2)
 
         with col1:
-            st.write("")
-            st.write("")
+            newLines(5)
             st.write("<p style='font-size:45px; text-align: center;'><b>Image2</b></p>", unsafe_allow_html=True)
             img2Display.displayImg()
             logging.info("image 2 displayed.")
 
         with col2:
-            st.write("")
-            st.write("")
-            
+            newLines(5)
             # if img1_display.img.shape != img2_display.img.shape:
             #     st.error("Images have different sizes")
             # else:
@@ -102,10 +100,7 @@ def main():
         with col3:
             cl1,cl2 = st.columns((1, 1), gap="small")
             with cl1:
-                st.write("")
-                st.write("")
-                
-                st.write("")
+                newLines(3)
                 st.write("<p style='font-size:21px; text-align: center;'><b>Component 1</b></p>", unsafe_allow_html=True)
             with cl2:
                 st.write("")
@@ -124,21 +119,10 @@ def main():
                      format="%d%%", help="Progress bar slider",key="slider2")
             logging.info(f"slider 2 value is {slider2}")
             with cl1:
-                st.write("")
-                st.write("")
-                st.write("")
-                st.write("")
-                st.write("")
-                st.write("")
-                st.write("")
-                st.write("")
+                newLines(8)
                 st.write("<p style='font-size:21px; text-align: center;'><b>Component 2</b></p>", unsafe_allow_html=True)
             with cl2:
-                st.write("")
-                st.write("")
-                st.write("")
-                st.write("")
-                st.write("")
+                newLines(5)
                 mixerImgSelection2 = st.selectbox(
                     f"Select which image to use", 
                     selectionOptions,
@@ -153,25 +137,19 @@ def main():
         outputImage = Mixer.excute(mixerImgSelection1,mixerImgSelection2,option1,option2,slider1,slider2)
         logging.info("Mixer excutable function called.")
         with col3:
-            st.write("")
-            st.write("")
-            st.write("")
-            st.write("")
-            st.write("")
-            st.write("")
-            st.write("")
-            st.write("")
-            st.write("")
+            newLines(9)
             if outputSelection == "output 1":
                 st.image(outputImage, use_column_width=True)
+                out1 = outputImage
                 logging.info("output 1 displayed")        
         with col4:
-            st.write("")
-            st.write("")
-            st.write("")
+            newLines(2)
             if outputSelection == "output 2":
                 st.image(outputImage, use_column_width=True)
+                out2 = outputImage
                 logging.info("output 2 displayed.")
+
+        
 
 if __name__ == "__main__":
     main()
