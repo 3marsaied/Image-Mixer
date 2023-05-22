@@ -11,10 +11,10 @@ class mixer:
         self.img2 = img2
         if self.img1:
             self.size = self.image1.shape[:2]
-            self.image1 = cv2.resize(self.image1, (0, 0), fx=0.7, fy=0.51)
+            self.image1 = cv2.resize(self.image1, (0, 0), fx=1, fy=1.2)
         if self.img2:
             self.size = self.image2.shape[:2]
-            self.image2 = cv2.resize(self.image2, (0, 0), fx=0.7, fy=0.51)
+            self.image2 = cv2.resize(self.image2, (0, 0), fx=1, fy=1.2)
         self.output_images = [None, None]
 
     def excute(self, imgSelector1, imgSelector2, componentSelector1, componentSelector2, ratio1, ratio2):
@@ -44,30 +44,82 @@ class mixer:
         # Mix the images and display the output
         if image_selector_1 == "image 1" and image_selector_2 == "image 2":
             # Calculate the selected components of the Fourier transforms of the images
-            component1 = self.calculate(component_selector_1, self.image1,ratio_1)
-            component2 = self.calculate(component_selector_2, self.image2,ratio_2)
+            component1 = self.calculate(component_selector_1, self.image1)
+            component2 = self.calculate(component_selector_2, self.image2)
+        
         elif image_selector_1 == "image 1" and image_selector_2 == "image 1":
             # Calculate the selected components of the Fourier transforms of the images
-            component1 = self.calculate(component_selector_1, self.image1,ratio_1)
-            component2 = self.calculate(component_selector_2, self.image1,ratio_2)
-        elif image_selector_2 == "image 2" and image_selector_2 == "image 2":
+            component1 = self.calculate(component_selector_1, self.image1)
+            component2 = self.calculate(component_selector_2, self.image1)
+        
+        elif image_selector_1 == "image 2" and image_selector_2 == "image 2":
             # Calculate the selected components of the Fourier transforms of the images
-            component1 = self.calculate(component_selector_1, self.image2,ratio_1)
-            component2 = self.calculate(component_selector_2, self.image2,ratio_2)
+            component1 = self.calculate(component_selector_1, self.image2)
+            component2 = self.calculate(component_selector_2, self.image2)
 
-        # Mix the components based on the selected mix ratio
-        mixed_component = (ratio_1 / 100) * component1 + (ratio_2 / 100) * component2
-
-
-
-        # Convert the mixed component back to an image and display it
-        output_image = np.uint8(np.fft.ifft2(np.fft.ifftshift(mixed_component)).real)
-        output_image = cv2.resize(output_image, (output_width, output_height))
-        return output_image
+        elif image_selector_1 == "image 2" and image_selector_2 == "image 1":
+            component1 = self.calculate(component_selector_1, self.image2)
+            component2 = self.calculate(component_selector_2, self.image1)
 
 
+        magComponent = np.fft.fftshift(np.zeros_like(np.fft.fft2(self.image1)))
+        phaseComponent = np.fft.fftshift(np.zeros_like(np.fft.fft2(self.image1)))
+        mixed_component_imag_inverse = np.fft.fftshift(np.zeros_like(np.fft.fft2(self.image1)))
+        mixed_component_real_inverse = np.fft.fftshift(np.zeros_like(np.fft.fft2(self.image1))) 
 
-    def calculate(self, component_name, image, ratio):
+        if component_selector_1 == "mag":
+            magComponent = component1
+            magComponent = (ratio1 / 100) * magComponent 
+        if component_selector_2 == "mag":
+            magComponent = component2
+            magComponent = (ratio2 / 100) * magComponent
+        if component_selector_1 == "phase" or component_selector_1 =="uniformPhase":
+            phaseComponent = component1
+            phaseComponent = (ratio1 / 100) * phaseComponent
+        if component_selector_2 == "phase" or component_selector_2 =="uniformPhase":
+            phaseComponent = component2
+            phaseComponent = (ratio2 / 100) * phaseComponent
+        if component_selector_1 =="uniformMag":
+            magComponent = component1
+        if  component_selector_2 =="uniformMag":
+            magComponent = component2
+
+
+
+        if component_selector_1 == "real" :
+            mixed_component_real_inverse = component1
+            mixed_component_real_inverse = (ratio1 / 100) * mixed_component_real_inverse 
+        if component_selector_2 == "real":
+            mixed_component_real_inverse = component2
+            mixed_component_real_inverse = (ratio2 / 100) * mixed_component_real_inverse
+        if component_selector_1 == "imag":
+            mixed_component_imag_inverse = component1
+            mixed_component_imag_inverse = (ratio1 / 100) * mixed_component_imag_inverse  
+        if component_selector_2 == "imag":
+            mixed_component_imag_inverse = component2
+            mixed_component_imag_inverse = (ratio2 / 100) * mixed_component_imag_inverse
+
+            
+        if (component_selector_1 == "real" and component_selector_2 == "imag") or (component_selector_2 == "real" and component_selector_1 == "imag") or (component_selector_1 == "real" and component_selector_2 == "real") or (component_selector_1 == "imag" and component_selector_2 == "imag"):
+            # Combine the real and imaginary parts to obtain the reconstructed image
+            mixed_component = mixed_component_real_inverse + 1j *( mixed_component_imag_inverse)
+            reconstructed_image = np.fft.ifft2(np.fft.ifftshift(mixed_component))
+            output_image = np.uint8(np.real(reconstructed_image)) # cast the real part of the resulting array to an 8-bit unsigned integer
+            output_image = cv2.resize(output_image, (output_width, output_height))
+            return output_image
+        
+        else:
+            # Mix the components based on the selected mix ratio
+            mixed_component = np.multiply(( magComponent), np.exp(1j *( phaseComponent)))
+            # Convert the mixed component back to an image and display it
+            mixed_component_shifted = np.fft.ifftshift(mixed_component) # shift the zero-frequency component to the center of the array
+            mixed_component_inverse = np.fft.ifft2(mixed_component_shifted) # perform the inverse Fourier transform
+            output_image = np.uint8(np.real(mixed_component_inverse)) # cast the real part of the resulting array to an 8-bit unsigned integer
+            output_image = cv2.resize(output_image, (output_width, output_height))
+            return output_image
+
+
+    def calculate(self, component_name, image):
         # Calculate the selected component of the Fourier transform of the image
         if component_name == "mag":
             component = np.fft.fftshift(np.abs(np.fft.fft2(image)))
@@ -77,10 +129,12 @@ class mixer:
             component = np.fft.fftshift(np.real(np.fft.fft2(image)))
         elif component_name == "imag":
             component = np.fft.fftshift(np.imag(np.fft.fft2(image)))
-        elif component_name == "unformMag":
-            component = np.fft.fftshift(np.ones_like(np.fft.fft2(image)))
-        elif component_name == "unformPhase":
+        elif component_name == "uniformMag":
+            component = np.fft.fftshift(np.abs(np.fft.fft2(image)))
+        elif component_name == "uniformPhase":
             component = np.fft.fftshift(np.zeros_like(np.fft.fft2(image)))
 
         return component
 
+
+   
