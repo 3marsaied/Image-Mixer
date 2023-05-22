@@ -6,7 +6,7 @@ from stSpace import *
 
 
 st.set_page_config(
-    page_title="FT Magnitude & phase Mixer",
+    page_title="Mixer",
     page_icon="./icons/picture.png",
     layout="wide",
     initial_sidebar_state="auto"
@@ -66,25 +66,28 @@ def main():
         img2Display = ImageDisplay(image2)
 
         with col1:
-            newLines(5)
-            st.write("<p style='font-size:45px; text-align: center;'><b>Image2</b></p>", unsafe_allow_html=True)
-            img2Display.displayImg()
-            logging.info("image 2 displayed.")
+            newLines(6)
+            if img1Display.img.shape != img2Display.img.shape:
+                st.error("Images have different sizes")
+            else:
+                st.write("<p style='font-size:45px; text-align: center;'><b>Image2</b></p>", unsafe_allow_html=True)
+                img2Display.displayImg()
+                logging.info("image 2 displayed.")
 
         with col2:
-            newLines(5)
-            # if img1_display.img.shape != img2_display.img.shape:
-            #     st.error("Images have different sizes")
-            # else:
-            component2 = st.selectbox(
-                f"Select component to display (Image 2)", 
-                options,
-                key=f"{image2}_component"
-            )
-            logging.info(f"{component2} is selected.")
-            img2Display.displayComponents(component2)
-            logging.info(f"image with component {component2} is desplayed.")
-            img2 = True
+            newLines(6)
+            if img1Display.img.shape != img2Display.img.shape:
+                st.error("Images have different sizes")
+            else:
+                component2 = st.selectbox(
+                    f"Select component to display (Image 2)", 
+                    options,
+                    key=f"{image2}_component"
+                )
+                logging.info(f"{component2} is selected.")
+                img2Display.displayComponents(component2)
+                logging.info(f"image with component {component2} is desplayed.")
+                img2 = True
 
     if img1 or img2:
         with col3:
@@ -112,7 +115,7 @@ def main():
                 logging.info(f"{mixerImgSelection1} selected to be modified in component 1")
                 st.write("")
                 with cl2, col4:
-                    option1 = st.selectbox("",["mag","phase","real","imag","unformMag","unformPhase"], key = "option1" )
+                    option1 = st.selectbox("",["mag","phase","real","imag","uniformMag","uniformPhase"], key = "option1" )
                     logging.info(f"component '{option1}' is selected to be modified.")
         with col4:
             slider2 = st.slider("", min_value=0, max_value=100, step=1, value=0, 
@@ -130,25 +133,24 @@ def main():
                 )
                 logging.info(f"{mixerImgSelection2} selected to be modified in component 2")
                 with cl2, col4:
-                    option2 = st.selectbox("",["mag","phase","real","imag","unformMag","unformPhase"], key = "option2")
+                    option2 = st.selectbox("",["phase","mag","real","imag","uniformMag","uniformPhase"], key = "option2")
                     logging.info(f"component '{option2}' is selected to be modified.")
 
         Mixer = mixer(image1,image2,img1,img2)               
-        outputImage = Mixer.excute(mixerImgSelection1,mixerImgSelection2,option1,option2,slider1,slider2)
+        outputImage1 = Mixer.excute(mixerImgSelection1,mixerImgSelection2,option1,option2,slider1,slider2)
+        outputImage2 = Mixer.excute(mixerImgSelection1,mixerImgSelection2,option1,option2,slider1,slider2) 
         logging.info("Mixer excutable function called.")
         with col3:
             newLines(9)
-            if outputSelection == "output 1":
-                st.image(outputImage, use_column_width=True)
-                out1 = outputImage
-                logging.info("output 1 displayed")        
+            st.image(outputImage1, use_column_width=True)
+            logging.info("output 1 displayed")
+
         with col4:
             newLines(2)
-            if outputSelection == "output 2":
-                st.image(outputImage, use_column_width=True)
-                out2 = outputImage
-                logging.info("output 2 displayed.")
-
+            
+            st.image(outputImage2, use_column_width=True)
+            logging.info("output 2 displayed.")
+            
         
 
 if __name__ == "__main__":
