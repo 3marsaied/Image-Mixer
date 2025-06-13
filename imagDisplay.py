@@ -4,35 +4,55 @@ import streamlit as st
 
 class ImageDisplay:
     def __init__(self, img):
-        self.img = img
+        self.original_img = img
+        self.img = cv2.resize(img, (0, 0), fx=0.7, fy=0.5)
         self.ft_magnitude = None
         self.ft_phase = None
-        self.ft_real = None
-        self.ft_imaginary = None
-        self.size = self.img.shape[:2]
-        # Resize the image to a smaller size
-        self.img = cv2.resize(self.img, (0, 0), fx=0.7, fy=0.5)
 
     def displayImg(self):
-        st.image(self.img, use_column_width=True)
+        i = cv2.cvtColor(self.img, cv2.COLOR_BGR2RGB)
+        st.image(i, use_container_width=True)
 
-    def displayComponents(self, component):
-        # Normalize pixel values
-        self.img = self.img / np.max(self.img)
-        if self.ft_magnitude is None:
-            self.ft_magnitude = np.fft.fftshift(np.abs(np.fft.fft2(self.img)))
-        if self.ft_phase is None:
-            self.ft_phase = np.fft.fftshift(np.angle(np.fft.fft2(self.img)))
-        if self.ft_real is None:
-            self.ft_real = np.fft.fftshift(np.real(np.fft.fft2(self.img)))
-        if self.ft_imaginary is None:
-            self.ft_imaginary = np.fft.fftshift(np.imag(np.fft.fft2(self.img)))
+    def displayComponents(self, component, mode="Grayscale"):
+        image = self.img.copy()
+
+        if mode == "Grayscale":
+            norm_img = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY).astype(np.float32) / 255.0
+            fft = np.fft.fftshift(np.fft.fft2(norm_img))
+            magnitude = np.abs(fft)
+            phase = np.angle(fft)
+            magnitude = np.log1p(magnitude)
+            mag_img = cv2.normalize(magnitude, None, 0, 255, cv2.NORM_MINMAX).astype(np.uint8)
+            phase_img = cv2.normalize(phase, None, 0, 255, cv2.NORM_MINMAX).astype(np.uint8)
+            self.ft_magnitude = mag_img
+            self.ft_phase = phase_img
+
+        elif mode in ["Red", "Green", "Blue"]:
+            channel_index = {"Blue": 0, "Green": 1, "Red": 2}[mode]
+            single_channel = image[:, :, channel_index].astype(np.float32) / 255.0
+            fft = np.fft.fftshift(np.fft.fft2(single_channel))
+            magnitude = np.abs(fft)
+            phase = np.angle(fft)
+            magnitude = np.log1p(magnitude)
+            mag_img = cv2.normalize(magnitude, None, 0, 255, cv2.NORM_MINMAX).astype(np.uint8)
+            phase_img = cv2.normalize(phase, None, 0, 255, cv2.NORM_MINMAX).astype(np.uint8)
+            self.ft_magnitude = mag_img
+            self.ft_phase = phase_img
+
+        elif mode == "All Channels":
+            mags = []
+            phases = []
+            for i in range(3):
+                channel = image[:, :, i].astype(np.float32) / 255.0
+                fft = np.fft.fftshift(np.fft.fft2(channel))
+                mag = np.log1p(np.abs(fft))
+                pha = np.angle(fft)
+                mags.append(cv2.normalize(mag, None, 0, 255, cv2.NORM_MINMAX).astype(np.uint8))
+                phases.append(cv2.normalize(pha, None, 0, 255, cv2.NORM_MINMAX).astype(np.uint8))
+            self.ft_magnitude = cv2.merge(mags)
+            self.ft_phase = cv2.merge(phases)
+
         if component == "FT Magnitude":
-            st.image(self.ft_magnitude, use_column_width=True, clamp=True)
+            st.image(self.ft_magnitude, use_container_width=True, clamp=True)
         elif component == "FT Phase":
-            st.image(self.ft_phase, use_column_width=True, clamp=True)
-        elif component == "FT Real component":
-            st.image(self.ft_real, use_column_width=True, clamp=True)
-        elif component == "FT Imaginary component":
-            st.image(self.ft_imaginary, use_column_width=True, clamp=True)
-
+            st.image(self.ft_phase, use_container_width=True, clamp=True)
